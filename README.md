@@ -25,7 +25,6 @@ Main input features:
 - `wine_category`
 - `food_item`
 - `food_category`
-- `cuisine`
 
 Target variable:
 - `target_class`
