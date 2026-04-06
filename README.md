@@ -85,15 +85,21 @@ The final model was selected based on test performance, with special attention t
 ```bash
 git clone <YOUR_REPO_URL>
 cd wine_classification
+```
 
 ### 2. Create a virtual env and install dependencies
 
+```bash
 python -m venv myenv
 source myenv/bin/activate
 pip install -r requirements.txt
+```
 
 ### 3. Run the Flask application
+```bash
 python app.py
 
 #then open your browser at
 http://127.0.0.1:5000
+
+```
