@@ -7,13 +7,6 @@ The application allows a user to select a wine and a meal combination in a web i
 - Okay
 - Bad
 
-The project was developed to satisfy the requirements of an MVP involving:
-- a classification problem
-- model training and comparison
-- model export
-- a simple full stack application
-- an automated PyTest performance check
-
 ---
 
 ## Problem
@@ -43,6 +36,8 @@ Target classes:
 - `Bad`
 
 Because the dataset contained repeated combinations with conflicting labels, a cleaning step was applied to reduce label noise by aggregating repeated feature combinations and assigning the majority label.
+
+The dataset is into the data folder, and can also be found here (https://www.kaggle.com/datasets/wafaaelhusseini/wine-and-food-pairing-dataset/data)
 
 ---
 
