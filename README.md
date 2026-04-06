@@ -78,19 +78,22 @@ The final model was selected based on test performance, with special attention t
 
 ---
 
-## Project Structure
+## How to Run
 
-```text
-wine_classification/
-├── app.py
-├── best_wine_pairing_model.pkl
-├── selected_features.pkl
-├── feature_options.pkl
-├── X_test.csv
-├── y_test.csv
-├── templates/
-│   └── index.html
-├── tests/
-│   └── test_model_performance.py
-├── requirements.txt
-└── notebook.ipynb
+### 1. Clone the repository
+
+```bash
+git clone <YOUR_REPO_URL>
+cd wine_classification
+
+### 2. Create a virtual env and install dependencies
+
+python -m venv myenv
+source myenv/bin/activate
+pip install -r requirements.txt
+
+### 3. Run the Flask application
+python app.py
+
+#then open your browser at
+http://127.0.0.1:5000
