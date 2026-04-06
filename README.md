@@ -7,12 +7,16 @@ The application allows a user to select a wine and a meal combination in a web i
 - Okay
 - Bad
 
+Using the add_rows notebook the user can also add some entry thats not there, and, in this way, customize the application.
+
+
 ---
 
 ## Problem
 
-Choosing a wine that pairs well with a meal can be difficult for non-experts.  
-This project builds a classification model that predicts the quality of a wine-food combination based on categorical features such as wine type, food category, cuisine, and food item.
+Choosing a wine that pairs well with a meal can be difficult for non-experts.Also, there are plenty of apps for wine recommendation out there, but rarely they are customizable
+This project builds a classification model that predicts the quality of a wine-food combination based on categorical features such as wine type, food category,and food item. Also, the training dataset is customizable and the user can add rows to it, retrain the model and keep it as a personal wine pairing recommendation system.
+
 
 ---
 
@@ -97,3 +101,7 @@ python app.py
 http://127.0.0.1:5000
 
 ```
+### 4. Add rows to the training dataset
+In order to add rows to the dataset you can simply add those using the add_rows notebook.
+
+In sequence, you can retrain the model so it will include your new preferences into it.
