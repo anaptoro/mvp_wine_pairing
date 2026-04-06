@@ -44,18 +44,19 @@ def extract_prediction_label(prediction) -> str:
 
 def suggest_better_pairings(submitted_values: dict, top_k: int = 3):
     """
-    If the user's pairing is predicted as Bad, try alternative wine options
-    while keeping the food side fixed.
+    Suggest better wine alternatives for the same meal.
+    Only returns alternatives predicted as Good or Okay.
     """
+    candidate_rows = []
+
     fixed_values = {
         "food_item": submitted_values.get("food_item", ""),
         "food_category": submitted_values.get("food_category", ""),
     }
 
-    candidate_rows = []
-
-    for wine_type in feature_options.get("wine_type", []):
-        for wine_category in feature_options.get("wine_category", []):
+    # build only valid wine pairs
+    for wine_category, valid_types in wine_types_by_category.items():
+        for wine_type in valid_types:
             row = {
                 "wine_type": wine_type,
                 "wine_category": wine_category,
@@ -70,8 +71,9 @@ def suggest_better_pairings(submitted_values: dict, top_k: int = 3):
     candidates_df = pd.DataFrame(candidate_rows)[selected_features]
 
     preds = model.predict(candidates_df)
+    probs = model.predict_proba(candidates_df)
 
-    # normalize prediction output
+    # normalize prediction labels
     pred_labels = []
     for p in preds:
         try:
@@ -82,44 +84,54 @@ def suggest_better_pairings(submitted_values: dict, top_k: int = 3):
         except Exception:
             pred_labels.append(str(p))
 
+    class_names = list(model.classes_)
+    good_idx = class_names.index("Good") if "Good" in class_names else None
+    okay_idx = class_names.index("Okay") if "Okay" in class_names else None
+    bad_idx = class_names.index("Bad") if "Bad" in class_names else None
+
     candidates_df = candidates_df.copy()
     candidates_df["predicted_label"] = pred_labels
+    candidates_df["prob_good"] = [row[good_idx] if good_idx is not None else 0.0 for row in probs]
+    candidates_df["prob_okay"] = [row[okay_idx] if okay_idx is not None else 0.0 for row in probs]
+    candidates_df["prob_bad"] = [row[bad_idx] if bad_idx is not None else 0.0 for row in probs]
 
-    # keep only alternatives predicted as Good, then Okay
-    good_df = candidates_df[candidates_df["predicted_label"] == "Good"].copy()
-    okay_df = candidates_df[candidates_df["predicted_label"] == "Okay"].copy()
-
-    # remove the exact original pairing from suggestions
-    good_df = good_df[
+    # remove the exact original pairing
+    candidates_df = candidates_df[
         ~(
-            (good_df["wine_type"] == submitted_values.get("wine_type", "")) &
-            (good_df["wine_category"] == submitted_values.get("wine_category", ""))
+            (candidates_df["wine_type"] == submitted_values.get("wine_type", "")) &
+            (candidates_df["wine_category"] == submitted_values.get("wine_category", ""))
         )
     ]
 
-    okay_df = okay_df[
-        ~(
-            (okay_df["wine_type"] == submitted_values.get("wine_type", "")) &
-            (okay_df["wine_category"] == submitted_values.get("wine_category", ""))
-        )
-    ]
+    # keep ONLY non-bad alternatives
+    candidates_df = candidates_df[
+        candidates_df["predicted_label"].isin(["Good", "Okay"])
+    ].copy()
+
+    if candidates_df.empty:
+        return []
+
+    ranked = candidates_df.sort_values(
+        by=["predicted_label", "prob_good", "prob_okay"],
+        ascending=[True, False, False],
+    ).copy()
+
+    # force Good before Okay
+    ranked["label_priority"] = ranked["predicted_label"].map({"Good": 0, "Okay": 1})
+    ranked = ranked.sort_values(
+        by=["label_priority", "prob_good", "prob_okay"],
+        ascending=[True, False, False],
+    )
 
     suggestions = []
-
-    for _, row in good_df.head(top_k).iterrows():
+    for _, row in ranked.head(top_k).iterrows():
         suggestions.append({
             "wine_type": row["wine_type"],
             "wine_category": row["wine_category"],
             "predicted_label": row["predicted_label"],
+            "prob_good": round(float(row["prob_good"]), 3),
+            "prob_okay": round(float(row["prob_okay"]), 3),
         })
-
-    if len(suggestions) < top_k:
-        for _, row in okay_df.head(top_k - len(suggestions)).iterrows():
-            suggestions.append({
-                "wine_type": row["wine_type"],
-                "wine_category": row["wine_category"],
-                "predicted_label": row["predicted_label"],
-            })
 
     return suggestions
 
@@ -160,4 +172,4 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=8080)
+    app.run(debug=True)
