@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wine Pairing Classifier</title>
+    <style>
+        :root {
+            --bg: #f6f3ef;
+            --card: #ffffff;
+            --text: #2d1f1a;
+            --muted: #6e5d57;
+            --border: #e7ddd6;
+            --accent: #7b1e3a;
+            --accent-hover: #65172f;
+            --good: #1f7a4c;
+            --okay: #b7791f;
+            --bad: #b83232;
+            --shadow: 0 10px 30px rgba(60, 35, 25, 0.08);
+            --radius: 18px;
+        }
+
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(180deg, #faf7f3 0%, #f2ece6 100%);
+            color: var(--text);
+        }
+
+        .page {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 32px 16px;
+        }
+
+        .card {
+            width: 100%;
+            max-width: 860px;
+            background: var(--card);
+            border: 1px solid var(--border);
+            border-radius: var(--radius);
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+
+        .hero {
+            padding: 32px 32px 20px 32px;
+            background: linear-gradient(135deg, #fff8f2 0%, #f8ede9 100%);
+            border-bottom: 1px solid var(--border);
+        }
+
+        .eyebrow {
+            display: inline-block;
+            font-size: 12px;
+            font-weight: 700;
+            letter-spacing: 0.08em;
+            text-transform: uppercase;
+            color: var(--accent);
+            background: rgba(123, 30, 58, 0.08);
+            padding: 8px 10px;
+            border-radius: 999px;
+            margin-bottom: 14px;
+        }
+
+        h1 {
+            margin: 0 0 8px 0;
+            font-size: 32px;
+            line-height: 1.1;
+        }
+
+        .subtitle {
+            margin: 0;
+            color: var(--muted);
+            font-size: 16px;
+            line-height: 1.5;
+            max-width: 650px;
+        }
+
+        .content {
+            padding: 28px 32px 32px 32px;
+        }
+
+        form {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 18px;
+        }
+
+        .field {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .field.full-width {
+            grid-column: 1 / -1;
+        }
+
+        label {
+            font-size: 14px;
+            font-weight: 700;
+            margin-bottom: 8px;
+            color: var(--text);
+        }
+
+        select {
+            width: 100%;
+            padding: 12px 14px;
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            background: #fff;
+            color: var(--text);
+            font-size: 14px;
+            outline: none;
+            transition: border-color 0.2s ease, box-shadow 0.2s ease;
+        }
+
+        select:focus {
+            border-color: rgba(123, 30, 58, 0.55);
+            box-shadow: 0 0 0 4px rgba(123, 30, 58, 0.10);
+        }
+
+        .actions {
+            grid-column: 1 / -1;
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 6px;
+        }
+
+        button {
+            border: none;
+            background: var(--accent);
+            color: #fff;
+            font-size: 15px;
+            font-weight: 700;
+            padding: 13px 20px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: background 0.2s ease, transform 0.05s ease;
+        }
+
+        button:hover {
+            background: var(--accent-hover);
+        }
+
+        button:active {
+            transform: translateY(1px);
+        }
+
+        .result {
+            margin-top: 28px;
+            border: 1px solid var(--border);
+            border-radius: 16px;
+            padding: 20px;
+            background: #fcfaf8;
+        }
+
+        .result-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 16px;
+            flex-wrap: wrap;
+        }
+
+        .result h2 {
+            margin: 0;
+            font-size: 20px;
+        }
+
+        .prediction-pill {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            padding: 10px 14px;
+            border-radius: 999px;
+            font-size: 14px;
+            font-weight: 700;
+            color: white;
+        }
+
+        .prediction-pill.good {
+            background: var(--good);
+        }
+
+        .prediction-pill.okay {
+            background: var(--okay);
+        }
+
+        .prediction-pill.bad {
+            background: var(--bad);
+        }
+
+        .prediction-pill.default {
+            background: var(--accent);
+        }
+
+        .result-copy {
+            margin-top: 14px;
+            color: var(--muted);
+            line-height: 1.5;
+        }
+
+        .summary-grid {
+            margin-top: 18px;
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 12px;
+        }
+
+        .summary-item {
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            padding: 12px;
+            background: white;
+        }
+
+        .summary-item .label {
+            display: block;
+            font-size: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.06em;
+            color: var(--muted);
+            margin-bottom: 6px;
+        }
+
+        .summary-item .value {
+            font-size: 15px;
+            font-weight: 700;
+            color: var(--text);
+        }
+
+        .footer-note {
+            margin-top: 22px;
+            font-size: 13px;
+            color: var(--muted);
+        }
+
+        @media (max-width: 720px) {
+            .hero,
+            .content {
+                padding: 22px 18px;
+            }
+
+            h1 {
+                font-size: 26px;
+            }
+
+            form {
+                grid-template-columns: 1fr;
+            }
+
+            .actions {
+                justify-content: stretch;
+            }
+
+            button {
+                width: 100%;
+            }
+
+            .summary-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="page">
+        <div class="card">
+            <div class="hero">
+                <div class="eyebrow">ML-powered MVP</div>
+                <h1>Wine Pairing Classifier</h1>
+                <p class="subtitle">
+                    Select a wine and meal combination to predict whether the pairing is likely to be
+                    <strong>Good</strong>, <strong>Okay</strong>, or <strong>Bad</strong>.
+                </p>
+            </div>
+
+            <div class="content">
+                <form action="/" method="post">
+                    {% for feature in selected_features %}
+                        <div class="field {% if loop.last %}full-width{% endif %}">
+                            <label for="{{ feature }}">{{ feature.replace("_", " ").title() }}</label>
+                            <select name="{{ feature }}" id="{{ feature }}" required>
+                                <option value="">Select...</option>
+                                {% for option in feature_options[feature] %}
+                                    <option value="{{ option }}"
+                                        {% if submitted_values.get(feature) == option %}selected{% endif %}>
+                                        {{ option }}
+                                    </option>
+                                {% endfor %}
+                            </select>
+                        </div>
+                    {% endfor %}
+
+                    <div class="actions">
+                        <button type="submit">Predict pairing</button>
+                    </div>
+                </form>
+
+                {% if prediction %}
+                    {% set pred_lower = prediction|lower %}
+                    <div class="result">
+                        <div class="result-header">
+                            <h2>Prediction result</h2>
+                            <div class="prediction-pill
+                                {% if pred_lower == 'good' %}good
+                                {% elif pred_lower == 'okay' %}okay
+                                {% elif pred_lower == 'bad' %}bad
+                                {% else %}default{% endif %}">
+                                {{ prediction }}
+                            </div>
+                        </div>
+
+                        <p class="result-copy">
+                            Based on the selected input values, the model predicts this combination as
+                            <strong>{{ prediction }}</strong>.
+                        </p>
+
+                        <div class="summary-grid">
+                            {% for feature in selected_features %}
+                                <div class="summary-item">
+                                    <span class="label">{{ feature.replace("_", " ") }}</span>
+                                    <span class="value">{{ submitted_values.get(feature, "-") }}</span>
+                                </div>
+                            {% endfor %}
+                        </div>
+
+                        <div class="footer-note">
+                            This result is generated by the trained classification model loaded in the back-end.
+                        </div>
+                    </div>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    {% if prediction == "Bad" and suggestions %}
+    <div class="result" style="margin-top: 18px; background: #fffaf8;">
+        <div class="result-header">
+            <h2>Suggested alternatives</h2>
+        </div>
+
+        <p class="result-copy">
+            This combination was predicted as <strong>Bad</strong>. Here are some wine alternatives
+            that may work better for the same meal.
+        </p>
+
+        <div class="summary-grid">
+            {% for suggestion in suggestions %}
+                <div class="summary-item">
+                    <span class="label">Wine suggestion</span>
+                    <span class="value">
+                        {{ suggestion.wine_type }} ({{ suggestion.wine_category }})
+                    </span>
+                    <div style="margin-top: 8px;">
+                        <span class="prediction-pill
+                            {% if suggestion.predicted_label|lower == 'good' %}good
+                            {% elif suggestion.predicted_label|lower == 'okay' %}okay
+                            {% else %}bad{% endif %}">
+                            {{ suggestion.predicted_label }}
+                        </span>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+{% endif %}
+</body>
+</html>

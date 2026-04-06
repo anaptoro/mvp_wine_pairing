@@ -1,0 +1,2472 @@
+wine_type,wine_category,food_category,cuisine,food_item
+Madeira,Fortified,Red Meat,Ethiopian,roast lamb
+Viognier,White,Pork,Mexican,pork tenderloin
+White Zinfandel,Rosé,Red Meat,Thai,grilled ribeye
+Sauternes,Dessert,Seafood,German,fish tacos
+Champagne,Sparkling,Cheese,Indian,fondue
+Champagne,Sparkling,Salty Snack,Vietnamese,olives and cheese
+Chardonnay,White,Creamy,Moroccan,alfredo pasta
+Zinfandel,Red,Red Meat,Thai,beef stew
+Syrah/Shiraz,Red,Red Meat,Chinese (Sichuan),grilled ribeye
+Port,Fortified,Dessert,American BBQ,chocolate mousse
+Gamay (Beaujolais),Red,Cheese,Greek,cheese platter
+Merlot,Red,Red Meat,Spanish,grilled ribeye
+Chardonnay,White,Poultry,Vietnamese,chicken curry
+Ice Wine,Dessert,Seafood,Indian,grilled salmon
+Gewürztraminer,White,Acidic,Thai,gazpacho
+Chenin Blanc,White,Red Meat,Japanese,roast lamb
+Albariño,White,Dessert,American BBQ,lemon tart
+Ice Wine,Dessert,Smoky BBQ,Chinese (Sichuan),grilled burger
+Riesling (dry),White,Acidic,American BBQ,caprese salad
+Chardonnay,White,Acidic,Chinese (Sichuan),caprese salad
+Ice Wine,Dessert,Cheese,Korean,mac and cheese
+Grüner Veltliner,White,Red Meat,Argentinian,grilled ribeye
+Riesling (dry),White,Red Meat,Spanish,beef stew
+Viognier,White,Red Meat,Thai,roast lamb
+Syrah/Shiraz,Red,Acidic,Thai,gazpacho
+Gamay (Beaujolais),Red,Seafood,Korean,grilled salmon
+Sauternes,Dessert,Red Meat,Vietnamese,beef stew
+Zinfandel,Red,Acidic,Moroccan,gazpacho
+Sauvignon Blanc,White,Dessert,Moroccan,sorbet
+Malbec,Red,Acidic,American BBQ,caprese salad
+Zinfandel,Red,Red Meat,Spanish,bbq brisket
+Chenin Blanc,White,Acidic,Middle Eastern,gazpacho
+Sauvignon Blanc,White,Creamy,Thai,cream of mushroom soup
+Torrontés,White,Acidic,Greek,gazpacho
+Nebbiolo,Red,Creamy,Greek,alfredo pasta
+Sauvignon Blanc,White,Dessert,Japanese,sorbet
+Zinfandel,Red,Smoky BBQ,Mexican,grilled burger
+Ice Wine,Dessert,Red Meat,Thai,bbq brisket
+Viognier,White,Acidic,Italian,citrus salad
+Cabernet Sauvignon,Red,Smoky BBQ,Korean,bbq ribs
+Pinot Noir,Red,Acidic,German,caprese salad
+Sangiovese,Red,Cheese,Thai,fondue
+Zinfandel,Red,Acidic,Japanese,citrus salad
+Champagne,Sparkling,Cheese,Greek,mac and cheese
+Torrontés,White,Cheese,Greek,fondue
+Albariño,White,Red Meat,Greek,grilled ribeye
+Cabernet Sauvignon,Red,Cheese,Thai,cheese platter
+Nebbiolo,Red,Creamy,German,carbonara
+Pinot Noir,Red,Poultry,French,duck à l’orange
+Sauvignon Blanc,White,Red Meat,Greek,roast lamb
+Viognier,White,Red Meat,Japanese,grilled ribeye
+Viognier,White,Pork,Ethiopian,pork tenderloin
+Grenache,Red,Creamy,Chinese (Sichuan),alfredo pasta
+Gewürztraminer,White,Cheese,Moroccan,cheese platter
+Pinot Noir,Red,Red Meat,Greek,beef stew
+Nebbiolo,Red,Pork,Moroccan,pork tenderloin
+Merlot,Red,Acidic,Mexican,caprese salad
+Chardonnay,White,Red Meat,Argentinian,grilled ribeye
+Champagne,Sparkling,Salty Snack,Spanish,mixed nuts
+Sauternes,Dessert,Acidic,Vietnamese,citrus salad
+Sauvignon Blanc,White,Red Meat,Greek,bbq brisket
+Nebbiolo,Red,Cheese,Indian,cheese platter
+Tempranillo,Red,Cheese,Italian,cheese platter
+Madeira,Fortified,Acidic,German,citrus salad
+Sauvignon Blanc,White,Vegetarian,Moroccan,stir-fried tofu
+Syrah/Shiraz,Red,Smoky BBQ,French,smoked sausage
+Tempranillo,Red,Red Meat,Ethiopian,roast lamb
+White Zinfandel,Rosé,Cheese,Middle Eastern,mac and cheese
+Provence Rosé,Rosé,Cheese,Middle Eastern,fondue
+Grenache,Red,Acidic,Moroccan,caprese salad
+Port,Fortified,Acidic,French,caprese salad
+Sauternes,Dessert,Dessert,Indian,chocolate mousse
+Grüner Veltliner,White,Vegetarian,Middle Eastern,vegetable curry
+Riesling (dry),White,Acidic,Thai,citrus salad
+Zinfandel,Red,Cheese,Italian,fondue
+Ice Wine,Dessert,Poultry,Argentinian,roast chicken with herbs
+Grenache,Red,Salty Snack,Ethiopian,mixed nuts
+Merlot,Red,Cheese,Mexican,mac and cheese
+Albariño,White,Creamy,Chinese (Sichuan),alfredo pasta
+Sangiovese,Red,Cheese,Mexican,mac and cheese
+Pinot Noir,Red,Red Meat,Argentinian,bbq brisket
+Sauvignon Blanc,White,Red Meat,Indian,roast lamb
+White Zinfandel,Rosé,Acidic,Korean,gazpacho
+Tempranillo,Red,Red Meat,Thai,beef stew
+Sauvignon Blanc,White,Cheese,French,mac and cheese
+Cava,Sparkling,Red Meat,Greek,grilled ribeye
+Ice Wine,Dessert,Acidic,German,citrus salad
+Riesling (dry),White,Acidic,Argentinian,caprese salad
+Merlot,Red,Creamy,Argentinian,carbonara
+Ice Wine,Dessert,Dessert,American BBQ,sorbet
+Cava,Sparkling,Red Meat,Middle Eastern,bbq brisket
+Port,Fortified,Cheese,German,cheese platter
+Cabernet Sauvignon,Red,Red Meat,Middle Eastern,bbq brisket
+Grüner Veltliner,White,Red Meat,Chinese (Sichuan),grilled ribeye
+Sauternes,Dessert,Poultry,Japanese,chicken curry
+Sangiovese,Red,Vegetarian,Ethiopian,vegetable curry
+Riesling (dry),White,Red Meat,Korean,roast lamb
+Port,Fortified,Cheese,Mexican,fondue
+Albariño,White,Dessert,Thai,sorbet
+Torrontés,White,Spicy,Moroccan,Sichuan noodles
+Sauvignon Blanc,White,Vegetarian,Spanish,mushroom risotto
+Albariño,White,Dessert,Middle Eastern,chocolate mousse
+Sauternes,Dessert,Pork,Vietnamese,bacon burger
+Cava,Sparkling,Salty Snack,German,charcuterie board
+Madeira,Fortified,Dessert,Indian,lemon tart
+Pinot Noir,Red,Red Meat,Middle Eastern,bbq brisket
+Champagne,Sparkling,Acidic,Italian,gazpacho
+Gamay (Beaujolais),Red,Cheese,Vietnamese,mac and cheese
+Merlot,Red,Salty Snack,Mexican,charcuterie board
+Zinfandel,Red,Red Meat,Middle Eastern,beef stew
+Sauternes,Dessert,Smoky BBQ,American BBQ,bbq ribs
+Viognier,White,Poultry,American BBQ,duck à l’orange
+Malbec,Red,Acidic,Vietnamese,citrus salad
+Gewürztraminer,White,Spicy,Korean,Sichuan noodles
+Chardonnay,White,Poultry,Middle Eastern,duck à l’orange
+Riesling (dry),White,Red Meat,Greek,roast lamb
+Port,Fortified,Cheese,Ethiopian,cheese platter
+Ice Wine,Dessert,Cheese,Middle Eastern,mac and cheese
+Viognier,White,Creamy,Japanese,cream of mushroom soup
+Gamay (Beaujolais),Red,Acidic,Vietnamese,citrus salad
+Chardonnay,White,Pork,Mexican,bacon burger
+Sauvignon Blanc,White,Vegetarian,Italian,vegetable curry
+Chardonnay,White,Red Meat,Indian,roast lamb
+Sauternes,Dessert,Vegetarian,Chinese (Sichuan),vegetable curry
+Torrontés,White,Spicy,American BBQ,Indian vindaloo
+Grüner Veltliner,White,Red Meat,Chinese (Sichuan),beef stew
+Cava,Sparkling,Cheese,Argentinian,mac and cheese
+Albariño,White,Vegetarian,Japanese,stir-fried tofu
+Sauvignon Blanc,White,Acidic,Thai,gazpacho
+Sauvignon Blanc,White,Dessert,Vietnamese,cheesecake
+Albariño,White,Vegetarian,German,vegetable curry
+Grenache,Red,Red Meat,German,beef stew
+Chardonnay,White,Poultry,American BBQ,chicken curry
+Gamay (Beaujolais),Red,Seafood,Spanish,fish tacos
+Sauvignon Blanc,White,Acidic,Indian,gazpacho
+Barbera,Red,Red Meat,American BBQ,bbq brisket
+Gamay (Beaujolais),Red,Seafood,Argentinian,fish tacos
+Sauternes,Dessert,Pork,Thai,bacon burger
+Port,Fortified,Dessert,French,lemon tart
+Port,Fortified,Acidic,Middle Eastern,caprese salad
+Sauternes,Dessert,Dessert,Mexican,cheesecake
+Albariño,White,Vegetarian,American BBQ,mushroom risotto
+Sauvignon Blanc,White,Seafood,American BBQ,grilled salmon
+Cabernet Sauvignon,Red,Acidic,Moroccan,gazpacho
+Ice Wine,Dessert,Smoky BBQ,Chinese (Sichuan),bbq ribs
+Malbec,Red,Acidic,Greek,gazpacho
+Sauternes,Dessert,Cheese,Middle Eastern,mac and cheese
+Sauvignon Blanc,White,Dessert,American BBQ,cheesecake
+Pinot Noir,Red,Vegetarian,Chinese (Sichuan),vegetable curry
+Malbec,Red,Red Meat,Moroccan,grilled ribeye
+Chardonnay,White,Poultry,Vietnamese,roast chicken with herbs
+Albariño,White,Creamy,Middle Eastern,carbonara
+Grüner Veltliner,White,Dessert,American BBQ,sorbet
+Nebbiolo,Red,Acidic,American BBQ,citrus salad
+Sauternes,Dessert,Acidic,Greek,caprese salad
+Madeira,Fortified,Dessert,Korean,sorbet
+Riesling (dry),White,Cheese,Argentinian,mac and cheese
+Viognier,White,Red Meat,Thai,bbq brisket
+Cava,Sparkling,Red Meat,Chinese (Sichuan),beef stew
+Zinfandel,Red,Cheese,Italian,mac and cheese
+Barbera,Red,Cheese,French,fondue
+Zinfandel,Red,Red Meat,Korean,beef stew
+Provence Rosé,Rosé,Red Meat,Argentinian,roast lamb
+Albariño,White,Creamy,Vietnamese,alfredo pasta
+Albariño,White,Seafood,Mexican,shrimp scampi
+Champagne,Sparkling,Red Meat,Middle Eastern,bbq brisket
+Viognier,White,Acidic,French,citrus salad
+Cabernet Sauvignon,Red,Cheese,Korean,cheese platter
+Zinfandel,Red,Red Meat,Italian,bbq brisket
+Grüner Veltliner,White,Red Meat,German,roast lamb
+White Zinfandel,Rosé,Acidic,Indian,gazpacho
+Albariño,White,Seafood,Japanese,shrimp scampi
+Sauvignon Blanc,White,Creamy,Spanish,alfredo pasta
+Torrontés,White,Red Meat,Argentinian,grilled ribeye
+Champagne,Sparkling,Acidic,Korean,gazpacho
+Sauternes,Dessert,Seafood,Italian,oysters
+Barbera,Red,Cheese,French,cheese platter
+Grüner Veltliner,White,Seafood,Indian,fish tacos
+Grüner Veltliner,White,Red Meat,German,beef stew
+White Zinfandel,Rosé,Cheese,Ethiopian,cheese platter
+Provence Rosé,Rosé,Cheese,Spanish,fondue
+Gamay (Beaujolais),Red,Cheese,Vietnamese,cheese platter
+Syrah/Shiraz,Red,Red Meat,French,roast lamb
+Zinfandel,Red,Red Meat,Middle Eastern,roast lamb
+White Zinfandel,Rosé,Cheese,Greek,mac and cheese
+Sauvignon Blanc,White,Vegetarian,Japanese,mushroom risotto
+Cava,Sparkling,Acidic,Spanish,caprese salad
+White Zinfandel,Rosé,Acidic,German,caprese salad
+Cava,Sparkling,Red Meat,German,bbq brisket
+Merlot,Red,Red Meat,Italian,beef stew
+Malbec,Red,Smoky BBQ,Thai,smoked sausage
+Syrah/Shiraz,Red,Red Meat,Vietnamese,roast lamb
+Gamay (Beaujolais),Red,Red Meat,American BBQ,roast lamb
+Grüner Veltliner,White,Vegetarian,Thai,vegetable curry
+Albariño,White,Vegetarian,Mexican,stir-fried tofu
+Merlot,Red,Creamy,Vietnamese,alfredo pasta
+Provence Rosé,Rosé,Cheese,Spanish,mac and cheese
+Merlot,Red,Salty Snack,Indian,mixed nuts
+Sangiovese,Red,Cheese,Vietnamese,mac and cheese
+Grenache,Red,Creamy,Mexican,carbonara
+Champagne,Sparkling,Red Meat,Spanish,roast lamb
+Torrontés,White,Red Meat,Italian,grilled ribeye
+Riesling (dry),White,Spicy,Italian,Thai curry
+Sauvignon Blanc,White,Seafood,Chinese (Sichuan),fish tacos
+Chardonnay,White,Creamy,Chinese (Sichuan),carbonara
+Cava,Sparkling,Salty Snack,Indian,mixed nuts
+Pinot Noir,Red,Acidic,Vietnamese,caprese salad
+Albariño,White,Acidic,Middle Eastern,citrus salad
+Zinfandel,Red,Red Meat,Mexican,beef stew
+Grüner Veltliner,White,Dessert,Indian,cheesecake
+Torrontés,White,Spicy,Indian,Indian vindaloo
+Madeira,Fortified,Red Meat,German,bbq brisket
+Malbec,Red,Red Meat,Japanese,bbq brisket
+Champagne,Sparkling,Seafood,Moroccan,shrimp scampi
+Cava,Sparkling,Acidic,American BBQ,gazpacho
+Cava,Sparkling,Salty Snack,Greek,charcuterie board
+Merlot,Red,Salty Snack,Moroccan,mixed nuts
+Syrah/Shiraz,Red,Red Meat,Argentinian,roast lamb
+Pinot Noir,Red,Vegetarian,Ethiopian,stir-fried tofu
+Nebbiolo,Red,Acidic,Chinese (Sichuan),citrus salad
+Cabernet Sauvignon,Red,Acidic,Greek,citrus salad
+Tempranillo,Red,Red Meat,Indian,beef stew
+Sangiovese,Red,Vegetarian,Thai,vegetable curry
+Chardonnay,White,Cheese,Greek,fondue
+Syrah/Shiraz,Red,Acidic,Argentinian,citrus salad
+Grüner Veltliner,White,Dessert,American BBQ,cheesecake
+Ice Wine,Dessert,Cheese,Italian,mac and cheese
+Zinfandel,Red,Cheese,Ethiopian,mac and cheese
+Tempranillo,Red,Cheese,Korean,cheese platter
+White Zinfandel,Rosé,Cheese,French,cheese platter
+Nebbiolo,Red,Spicy,Korean,Indian vindaloo
+Nebbiolo,Red,Creamy,Korean,cream of mushroom soup
+Gewürztraminer,White,Spicy,American BBQ,Sichuan noodles
+Madeira,Fortified,Red Meat,Spanish,roast lamb
+Sangiovese,Red,Acidic,Korean,caprese salad
+Cabernet Sauvignon,Red,Red Meat,German,roast lamb
+Chardonnay,White,Creamy,Chinese (Sichuan),alfredo pasta
+Syrah/Shiraz,Red,Acidic,Japanese,gazpacho
+Grüner Veltliner,White,Seafood,Thai,shrimp scampi
+Nebbiolo,Red,Acidic,Spanish,caprese salad
+Provence Rosé,Rosé,Acidic,Argentinian,gazpacho
+Gamay (Beaujolais),Red,Cheese,Middle Eastern,cheese platter
+Torrontés,White,Red Meat,Greek,bbq brisket
+Sauvignon Blanc,White,Vegetarian,Japanese,stir-fried tofu
+Gamay (Beaujolais),Red,Acidic,Korean,citrus salad
+Ice Wine,Dessert,Vegetarian,French,mushroom risotto
+Sangiovese,Red,Poultry,French,chicken curry
+Cava,Sparkling,Cheese,Moroccan,fondue
+Grenache,Red,Acidic,Vietnamese,citrus salad
+Madeira,Fortified,Red Meat,Indian,bbq brisket
+Gewürztraminer,White,Spicy,Japanese,Sichuan noodles
+Sauvignon Blanc,White,Dessert,Argentinian,sorbet
+Ice Wine,Dessert,Acidic,Korean,citrus salad
+Sauvignon Blanc,White,Dessert,Middle Eastern,cheesecake
+Chenin Blanc,White,Cheese,Moroccan,fondue
+Chardonnay,White,Acidic,Middle Eastern,gazpacho
+Malbec,Red,Smoky BBQ,Indian,bbq ribs
+Grenache,Red,Acidic,Middle Eastern,caprese salad
+Pinot Noir,Red,Poultry,Mexican,duck à l’orange
+Sauternes,Dessert,Salty Snack,Italian,olives and cheese
+Sauternes,Dessert,Seafood,Spanish,oysters
+Merlot,Red,Red Meat,Ethiopian,grilled ribeye
+Madeira,Fortified,Red Meat,French,bbq brisket
+Grenache,Red,Cheese,Indian,cheese platter
+Sauternes,Dessert,Dessert,Spanish,lemon tart
+Gamay (Beaujolais),Red,Seafood,Mexican,fish tacos
+Albariño,White,Red Meat,American BBQ,grilled ribeye
+Barbera,Red,Acidic,Mexican,citrus salad
+Grenache,Red,Red Meat,Moroccan,bbq brisket
+Chenin Blanc,White,Acidic,Japanese,gazpacho
+Barbera,Red,Red Meat,Greek,beef stew
+Chardonnay,White,Pork,Ethiopian,carbonara
+Ice Wine,Dessert,Salty Snack,Japanese,mixed nuts
+Chardonnay,White,Poultry,Italian,duck à l’orange
+Pinot Noir,Red,Red Meat,Italian,roast lamb
+Syrah/Shiraz,Red,Acidic,American BBQ,gazpacho
+Albariño,White,Seafood,German,grilled salmon
+Gamay (Beaujolais),Red,Red Meat,Italian,beef stew
+Tempranillo,Red,Acidic,Argentinian,citrus salad
+Zinfandel,Red,Smoky BBQ,Argentinian,bbq ribs
+Grüner Veltliner,White,Red Meat,Vietnamese,grilled ribeye
+Nebbiolo,Red,Red Meat,Moroccan,bbq brisket
+Sangiovese,Red,Vegetarian,Chinese (Sichuan),vegetable curry
+Malbec,Red,Acidic,Middle Eastern,citrus salad
+Champagne,Sparkling,Cheese,Moroccan,cheese platter
+Cabernet Sauvignon,Red,Cheese,Moroccan,fondue
+Sangiovese,Red,Vegetarian,Korean,mushroom risotto
+Sauternes,Dessert,Salty Snack,Indian,mixed nuts
+Ice Wine,Dessert,Dessert,Middle Eastern,cheesecake
+Grüner Veltliner,White,Seafood,Japanese,oysters
+Tempranillo,Red,Acidic,Chinese (Sichuan),citrus salad
+Albariño,White,Vegetarian,Moroccan,mushroom risotto
+Grüner Veltliner,White,Red Meat,Greek,grilled ribeye
+Ice Wine,Dessert,Pork,Japanese,pork tenderloin
+Sauternes,Dessert,Poultry,Moroccan,roast chicken with herbs
+Malbec,Red,Red Meat,Ethiopian,bbq brisket
+Chenin Blanc,White,Acidic,German,caprese salad
+Malbec,Red,Red Meat,Argentinian,roast lamb
+Zinfandel,Red,Cheese,Mexican,fondue
+Barbera,Red,Acidic,Chinese (Sichuan),caprese salad
+Sangiovese,Red,Vegetarian,Indian,mushroom risotto
+Albariño,White,Red Meat,American BBQ,beef stew
+Sauternes,Dessert,Dessert,Thai,sorbet
+Provence Rosé,Rosé,Acidic,Korean,citrus salad
+Merlot,Red,Creamy,French,alfredo pasta
+Madeira,Fortified,Red Meat,Chinese (Sichuan),grilled ribeye
+Grenache,Red,Salty Snack,Mexican,charcuterie board
+Champagne,Sparkling,Cheese,Chinese (Sichuan),mac and cheese
+Grüner Veltliner,White,Vegetarian,Japanese,mushroom risotto
+Sauvignon Blanc,White,Acidic,Ethiopian,caprese salad
+Syrah/Shiraz,Red,Red Meat,Mexican,bbq brisket
+Torrontés,White,Red Meat,Spanish,beef stew
+Grüner Veltliner,White,Creamy,Italian,alfredo pasta
+Albariño,White,Dessert,Greek,chocolate mousse
+Nebbiolo,Red,Pork,Korean,bacon burger
+Grüner Veltliner,White,Dessert,Argentinian,chocolate mousse
+Sauvignon Blanc,White,Seafood,Chinese (Sichuan),grilled salmon
+Champagne,Sparkling,Salty Snack,Spanish,charcuterie board
+Cava,Sparkling,Cheese,Japanese,cheese platter
+Malbec,Red,Cheese,French,cheese platter
+Sauvignon Blanc,White,Seafood,Argentinian,grilled salmon
+Albariño,White,Creamy,Thai,cream of mushroom soup
+Torrontés,White,Acidic,American BBQ,caprese salad
+Ice Wine,Dessert,Red Meat,German,roast lamb
+Provence Rosé,Rosé,Cheese,Spanish,cheese platter
+Sauternes,Dessert,Salty Snack,Greek,charcuterie board
+Albariño,White,Creamy,American BBQ,cream of mushroom soup
+Sauvignon Blanc,White,Seafood,Greek,oysters
+Albariño,White,Vegetarian,Indian,mushroom risotto
+Nebbiolo,Red,Acidic,Vietnamese,gazpacho
+Grenache,Red,Pork,Thai,bacon burger
+Pinot Noir,Red,Red Meat,Korean,roast lamb
+Torrontés,White,Red Meat,German,roast lamb
+Grüner Veltliner,White,Cheese,Chinese (Sichuan),mac and cheese
+Cava,Sparkling,Red Meat,Thai,beef stew
+Riesling (dry),White,Cheese,Indian,mac and cheese
+Chardonnay,White,Creamy,Greek,alfredo pasta
+Nebbiolo,Red,Creamy,Chinese (Sichuan),alfredo pasta
+Chardonnay,White,Red Meat,French,beef stew
+Champagne,Sparkling,Acidic,Greek,citrus salad
+Albariño,White,Vegetarian,Chinese (Sichuan),mushroom risotto
+Riesling (dry),White,Red Meat,Moroccan,beef stew
+Malbec,Red,Cheese,German,fondue
+Torrontés,White,Red Meat,Middle Eastern,grilled ribeye
+Torrontés,White,Cheese,Indian,mac and cheese
+Port,Fortified,Dessert,Vietnamese,cheesecake
+Syrah/Shiraz,Red,Acidic,Korean,citrus salad
+Albariño,White,Vegetarian,Ethiopian,vegetable curry
+Viognier,White,Pork,Indian,bacon burger
+Riesling (dry),White,Red Meat,Vietnamese,bbq brisket
+Merlot,Red,Creamy,French,carbonara
+Grüner Veltliner,White,Red Meat,Mexican,grilled ribeye
+Cabernet Sauvignon,Red,Acidic,Moroccan,caprese salad
+Malbec,Red,Cheese,Japanese,fondue
+Pinot Noir,Red,Cheese,Argentinian,mac and cheese
+Gewürztraminer,White,Red Meat,Moroccan,roast lamb
+Grüner Veltliner,White,Dessert,Ethiopian,lemon tart
+Port,Fortified,Red Meat,Mexican,grilled ribeye
+Madeira,Fortified,Acidic,Italian,citrus salad
+Sauvignon Blanc,White,Red Meat,American BBQ,grilled ribeye
+Champagne,Sparkling,Acidic,Thai,caprese salad
+Malbec,Red,Red Meat,Spanish,bbq brisket
+Cabernet Sauvignon,Red,Smoky BBQ,Italian,grilled burger
+Ice Wine,Dessert,Vegetarian,Indian,stir-fried tofu
+Champagne,Sparkling,Salty Snack,Japanese,mixed nuts
+Chardonnay,White,Red Meat,Korean,roast lamb
+Sangiovese,Red,Poultry,Korean,duck à l’orange
+Nebbiolo,Red,Creamy,Japanese,carbonara
+Viognier,White,Acidic,French,caprese salad
+Nebbiolo,Red,Creamy,Argentinian,alfredo pasta
+Sauvignon Blanc,White,Dessert,Thai,sorbet
+Cava,Sparkling,Seafood,Vietnamese,shrimp scampi
+Cabernet Sauvignon,Red,Cheese,Ethiopian,fondue
+Torrontés,White,Spicy,Ethiopian,Thai curry
+Albariño,White,Dessert,Italian,sorbet
+Sauvignon Blanc,White,Dessert,Japanese,cheesecake
+Nebbiolo,Red,Seafood,Greek,oysters
+Viognier,White,Pork,Mexican,carbonara
+Cava,Sparkling,Acidic,Ethiopian,caprese salad
+Gewürztraminer,White,Acidic,German,citrus salad
+Grüner Veltliner,White,Red Meat,Indian,bbq brisket
+Pinot Noir,Red,Red Meat,Vietnamese,grilled ribeye
+Sangiovese,Red,Acidic,Chinese (Sichuan),gazpacho
+Provence Rosé,Rosé,Cheese,Thai,cheese platter
+Viognier,White,Creamy,Indian,cream of mushroom soup
+Sauvignon Blanc,White,Seafood,Argentinian,fish tacos
+Grenache,Red,Acidic,Thai,gazpacho
+Sauternes,Dessert,Pork,Chinese (Sichuan),pork tenderloin
+Provence Rosé,Rosé,Red Meat,Indian,roast lamb
+Sauvignon Blanc,White,Red Meat,Mexican,roast lamb
+Pinot Noir,Red,Poultry,American BBQ,duck à l’orange
+Gewürztraminer,White,Spicy,Greek,Indian vindaloo
+Malbec,Red,Red Meat,Korean,beef stew
+Merlot,Red,Creamy,Japanese,cream of mushroom soup
+Cava,Sparkling,Salty Snack,Korean,charcuterie board
+Madeira,Fortified,Acidic,Greek,caprese salad
+Nebbiolo,Red,Acidic,American BBQ,caprese salad
+Gamay (Beaujolais),Red,Cheese,Middle Eastern,mac and cheese
+White Zinfandel,Rosé,Cheese,Spanish,fondue
+Grüner Veltliner,White,Creamy,Middle Eastern,carbonara
+Gamay (Beaujolais),Red,Seafood,American BBQ,oysters
+Zinfandel,Red,Red Meat,Korean,roast lamb
+Nebbiolo,Red,Acidic,Mexican,gazpacho
+Sauvignon Blanc,White,Dessert,Indian,sorbet
+Cava,Sparkling,Seafood,Thai,shrimp scampi
+Barbera,Red,Red Meat,Middle Eastern,roast lamb
+Nebbiolo,Red,Seafood,Chinese (Sichuan),fish tacos
+Grüner Veltliner,White,Creamy,Japanese,cream of mushroom soup
+Ice Wine,Dessert,Pork,French,carbonara
+Provence Rosé,Rosé,Red Meat,Japanese,beef stew
+Grüner Veltliner,White,Seafood,Greek,oysters
+Champagne,Sparkling,Salty Snack,Greek,charcuterie board
+Chardonnay,White,Pork,Indian,bacon burger
+Chardonnay,White,Pork,Middle Eastern,pork tenderloin
+Port,Fortified,Red Meat,Spanish,bbq brisket
+White Zinfandel,Rosé,Acidic,Middle Eastern,caprese salad
+Ice Wine,Dessert,Dessert,Greek,cheesecake
+Nebbiolo,Red,Spicy,Middle Eastern,Thai curry
+Sauvignon Blanc,White,Dessert,Moroccan,chocolate mousse
+Sauternes,Dessert,Smoky BBQ,German,bbq ribs
+Provence Rosé,Rosé,Cheese,Vietnamese,fondue
+Barbera,Red,Red Meat,Middle Eastern,beef stew
+Sangiovese,Red,Vegetarian,Japanese,vegetable curry
+Champagne,Sparkling,Salty Snack,Middle Eastern,charcuterie board
+Sauvignon Blanc,White,Seafood,Middle Eastern,shrimp scampi
+Gamay (Beaujolais),Red,Acidic,German,caprese salad
+Chardonnay,White,Red Meat,Italian,roast lamb
+Merlot,Red,Cheese,German,cheese platter
+Riesling (dry),White,Cheese,Greek,fondue
+Viognier,White,Creamy,Moroccan,alfredo pasta
+Sangiovese,Red,Acidic,Middle Eastern,caprese salad
+Cava,Sparkling,Acidic,Ethiopian,citrus salad
+Sauternes,Dessert,Smoky BBQ,Spanish,grilled burger
+Grüner Veltliner,White,Dessert,Argentinian,sorbet
+Nebbiolo,Red,Creamy,Italian,alfredo pasta
+Viognier,White,Creamy,Mexican,alfredo pasta
+Zinfandel,Red,Acidic,Ethiopian,citrus salad
+Chardonnay,White,Red Meat,Middle Eastern,bbq brisket
+Sauternes,Dessert,Pork,Japanese,bacon burger
+Riesling (dry),White,Cheese,Korean,fondue
+Syrah/Shiraz,Red,Smoky BBQ,Korean,bbq ribs
+Provence Rosé,Rosé,Acidic,Thai,gazpacho
+Sauvignon Blanc,White,Vegetarian,Spanish,vegetable curry
+Madeira,Fortified,Dessert,Thai,lemon tart
+Nebbiolo,Red,Pork,German,carbonara
+Cava,Sparkling,Acidic,Chinese (Sichuan),citrus salad
+Port,Fortified,Red Meat,German,bbq brisket
+Chardonnay,White,Red Meat,Korean,beef stew
+Grüner Veltliner,White,Acidic,Argentinian,citrus salad
+Syrah/Shiraz,Red,Acidic,French,caprese salad
+Sauvignon Blanc,White,Acidic,Ethiopian,citrus salad
+Syrah/Shiraz,Red,Acidic,Ethiopian,caprese salad
+Madeira,Fortified,Cheese,Argentinian,mac and cheese
+Torrontés,White,Red Meat,Ethiopian,bbq brisket
+White Zinfandel,Rosé,Cheese,Thai,fondue
+Merlot,Red,Red Meat,Korean,grilled ribeye
+Grüner Veltliner,White,Red Meat,American BBQ,beef stew
+Chenin Blanc,White,Red Meat,Chinese (Sichuan),grilled ribeye
+Gamay (Beaujolais),Red,Cheese,Argentinian,fondue
+Nebbiolo,Red,Seafood,Chinese (Sichuan),shrimp scampi
+Chenin Blanc,White,Red Meat,Korean,beef stew
+Viognier,White,Cheese,Moroccan,fondue
+Ice Wine,Dessert,Pork,Japanese,bacon burger
+Grüner Veltliner,White,Seafood,French,shrimp scampi
+Grenache,Red,Acidic,Korean,citrus salad
+Merlot,Red,Red Meat,Korean,roast lamb
+Cava,Sparkling,Red Meat,Mexican,roast lamb
+Pinot Noir,Red,Cheese,Argentinian,cheese platter
+Sangiovese,Red,Poultry,Chinese (Sichuan),chicken curry
+Gewürztraminer,White,Red Meat,German,roast lamb
+Merlot,Red,Pork,Chinese (Sichuan),bacon burger
+Malbec,Red,Acidic,Korean,citrus salad
+Grüner Veltliner,White,Red Meat,Middle Eastern,bbq brisket
+White Zinfandel,Rosé,Red Meat,Korean,roast lamb
+Albariño,White,Dessert,Indian,sorbet
+Viognier,White,Acidic,American BBQ,citrus salad
+Torrontés,White,Red Meat,Ethiopian,roast lamb
+Syrah/Shiraz,Red,Smoky BBQ,American BBQ,grilled burger
+Sauternes,Dessert,Pork,Argentinian,pork tenderloin
+Chardonnay,White,Red Meat,German,roast lamb
+Cava,Sparkling,Acidic,Chinese (Sichuan),gazpacho
+Ice Wine,Dessert,Poultry,Ethiopian,roast chicken with herbs
+Grüner Veltliner,White,Red Meat,Italian,grilled ribeye
+Nebbiolo,Red,Acidic,Korean,citrus salad
+Tempranillo,Red,Cheese,Italian,mac and cheese
+Provence Rosé,Rosé,Red Meat,German,roast lamb
+Champagne,Sparkling,Cheese,Vietnamese,fondue
+Malbec,Red,Smoky BBQ,Korean,bbq ribs
+Sangiovese,Red,Poultry,Ethiopian,chicken curry
+Cava,Sparkling,Seafood,Italian,fish tacos
+Zinfandel,Red,Cheese,Greek,cheese platter
+Gamay (Beaujolais),Red,Red Meat,Japanese,beef stew
+Cava,Sparkling,Seafood,Mexican,shrimp scampi
+Riesling (dry),White,Cheese,Greek,mac and cheese
+Sauternes,Dessert,Smoky BBQ,Indian,bbq ribs
+White Zinfandel,Rosé,Red Meat,German,beef stew
+Chenin Blanc,White,Red Meat,Japanese,bbq brisket
+Port,Fortified,Red Meat,Vietnamese,bbq brisket
+Torrontés,White,Acidic,Indian,citrus salad
+Riesling (dry),White,Red Meat,Argentinian,roast lamb
+Grenache,Red,Salty Snack,Spanish,olives and cheese
+Zinfandel,Red,Cheese,Korean,mac and cheese
+Sauternes,Dessert,Dessert,Indian,cheesecake
+Provence Rosé,Rosé,Acidic,Vietnamese,citrus salad
+Chenin Blanc,White,Red Meat,Middle Eastern,beef stew
+Sauternes,Dessert,Cheese,Indian,mac and cheese
+Sauvignon Blanc,White,Cheese,Mexican,cheese platter
+Grüner Veltliner,White,Seafood,Ethiopian,fish tacos
+Chardonnay,White,Acidic,German,caprese salad
+Grüner Veltliner,White,Vegetarian,Greek,mushroom risotto
+Merlot,Red,Pork,American BBQ,pork tenderloin
+Viognier,White,Acidic,Indian,citrus salad
+Sauternes,Dessert,Poultry,Ethiopian,roast chicken with herbs
+Grenache,Red,Salty Snack,French,charcuterie board
+Cabernet Sauvignon,Red,Red Meat,Spanish,grilled ribeye
+Merlot,Red,Creamy,Ethiopian,alfredo pasta
+Sangiovese,Red,Red Meat,American BBQ,grilled ribeye
+Gewürztraminer,White,Acidic,Vietnamese,caprese salad
+Ice Wine,Dessert,Vegetarian,Chinese (Sichuan),stir-fried tofu
+Gamay (Beaujolais),Red,Acidic,Italian,citrus salad
+Grüner Veltliner,White,Red Meat,German,bbq brisket
+Cabernet Sauvignon,Red,Smoky BBQ,Chinese (Sichuan),smoked sausage
+Ice Wine,Dessert,Seafood,American BBQ,fish tacos
+Port,Fortified,Red Meat,Ethiopian,roast lamb
+Madeira,Fortified,Acidic,Indian,gazpacho
+Syrah/Shiraz,Red,Cheese,German,mac and cheese
+Malbec,Red,Acidic,Japanese,gazpacho
+Malbec,Red,Cheese,Japanese,mac and cheese
+White Zinfandel,Rosé,Red Meat,German,grilled ribeye
+Merlot,Red,Red Meat,German,roast lamb
+Cabernet Sauvignon,Red,Acidic,Chinese (Sichuan),gazpacho
+Nebbiolo,Red,Creamy,Moroccan,alfredo pasta
+Merlot,Red,Cheese,Middle Eastern,mac and cheese
+Gewürztraminer,White,Acidic,Greek,gazpacho
+Gamay (Beaujolais),Red,Seafood,Middle Eastern,shrimp scampi
+Viognier,White,Creamy,Moroccan,cream of mushroom soup
+Madeira,Fortified,Dessert,Vietnamese,chocolate mousse
+Barbera,Red,Red Meat,Chinese (Sichuan),roast lamb
+Merlot,Red,Pork,German,carbonara
+Provence Rosé,Rosé,Acidic,American BBQ,citrus salad
+White Zinfandel,Rosé,Cheese,Greek,cheese platter
+Cava,Sparkling,Red Meat,German,beef stew
+Sauternes,Dessert,Salty Snack,German,charcuterie board
+Ice Wine,Dessert,Red Meat,Argentinian,bbq brisket
+Champagne,Sparkling,Acidic,Mexican,caprese salad
+White Zinfandel,Rosé,Cheese,French,fondue
+Torrontés,White,Cheese,Thai,fondue
+Champagne,Sparkling,Red Meat,Argentinian,grilled ribeye
+Gamay (Beaujolais),Red,Red Meat,German,beef stew
+Albariño,White,Dessert,Spanish,chocolate mousse
+Syrah/Shiraz,Red,Cheese,Greek,fondue
+Grüner Veltliner,White,Seafood,Japanese,shrimp scampi
+Sauternes,Dessert,Dessert,Middle Eastern,cheesecake
+Port,Fortified,Acidic,Thai,citrus salad
+Cava,Sparkling,Salty Snack,Middle Eastern,olives and cheese
+Viognier,White,Red Meat,Middle Eastern,beef stew
+Syrah/Shiraz,Red,Cheese,American BBQ,fondue
+Sauternes,Dessert,Red Meat,Thai,bbq brisket
+Albariño,White,Dessert,Vietnamese,chocolate mousse
+Sangiovese,Red,Red Meat,Korean,roast lamb
+Merlot,Red,Creamy,Ethiopian,carbonara
+Sauvignon Blanc,White,Dessert,Indian,chocolate mousse
+Grüner Veltliner,White,Creamy,Thai,alfredo pasta
+Grüner Veltliner,White,Red Meat,Chinese (Sichuan),bbq brisket
+Port,Fortified,Dessert,Spanish,chocolate mousse
+Ice Wine,Dessert,Smoky BBQ,Thai,bbq ribs
+Tempranillo,Red,Acidic,Italian,gazpacho
+Syrah/Shiraz,Red,Cheese,Greek,cheese platter
+Grüner Veltliner,White,Vegetarian,Mexican,vegetable curry
+Albariño,White,Dessert,Chinese (Sichuan),cheesecake
+Sauvignon Blanc,White,Dessert,Spanish,sorbet
+Riesling (dry),White,Spicy,Korean,Thai curry
+Sauternes,Dessert,Salty Snack,Mexican,charcuterie board
+Sauvignon Blanc,White,Dessert,Argentinian,chocolate mousse
+Grenache,Red,Red Meat,French,roast lamb
+Gewürztraminer,White,Cheese,Indian,fondue
+Pinot Noir,Red,Poultry,Vietnamese,roast chicken with herbs
+Pinot Noir,Red,Red Meat,Spanish,bbq brisket
+Syrah/Shiraz,Red,Cheese,Greek,mac and cheese
+Port,Fortified,Red Meat,Thai,grilled ribeye
+Champagne,Sparkling,Acidic,Argentinian,gazpacho
+Chardonnay,White,Pork,Thai,carbonara
+Nebbiolo,Red,Seafood,German,shrimp scampi
+Nebbiolo,Red,Cheese,Japanese,mac and cheese
+Ice Wine,Dessert,Salty Snack,American BBQ,charcuterie board
+Nebbiolo,Red,Seafood,German,grilled salmon
+Nebbiolo,Red,Seafood,Greek,grilled salmon
+Nebbiolo,Red,Creamy,Mexican,alfredo pasta
+Grüner Veltliner,White,Cheese,Middle Eastern,fondue
+Albariño,White,Dessert,French,chocolate mousse
+Provence Rosé,Rosé,Red Meat,Spanish,roast lamb
+Cabernet Sauvignon,Red,Smoky BBQ,Moroccan,bbq ribs
+Port,Fortified,Cheese,Thai,fondue
+Sauternes,Dessert,Smoky BBQ,Spanish,smoked sausage
+Zinfandel,Red,Red Meat,Ethiopian,beef stew
+Pinot Noir,Red,Red Meat,Chinese (Sichuan),bbq brisket
+Chenin Blanc,White,Cheese,German,cheese platter
+Grenache,Red,Salty Snack,Moroccan,charcuterie board
+Pinot Noir,Red,Acidic,Japanese,caprese salad
+Ice Wine,Dessert,Salty Snack,Chinese (Sichuan),mixed nuts
+Tempranillo,Red,Cheese,Spanish,fondue
+White Zinfandel,Rosé,Acidic,Vietnamese,citrus salad
+Ice Wine,Dessert,Dessert,German,lemon tart
+Grenache,Red,Creamy,Greek,cream of mushroom soup
+Barbera,Red,Acidic,American BBQ,gazpacho
+Viognier,White,Acidic,Thai,gazpacho
+Grüner Veltliner,White,Seafood,German,grilled salmon
+Zinfandel,Red,Smoky BBQ,Korean,grilled burger
+Pinot Noir,Red,Acidic,Argentinian,gazpacho
+Zinfandel,Red,Red Meat,German,bbq brisket
+Riesling (dry),White,Red Meat,Middle Eastern,grilled ribeye
+Nebbiolo,Red,Creamy,Thai,alfredo pasta
+Merlot,Red,Salty Snack,Ethiopian,charcuterie board
+Cava,Sparkling,Salty Snack,Middle Eastern,mixed nuts
+Nebbiolo,Red,Pork,Mexican,carbonara
+Nebbiolo,Red,Spicy,Chinese (Sichuan),Indian vindaloo
+Provence Rosé,Rosé,Red Meat,Argentinian,bbq brisket
+Merlot,Red,Red Meat,Vietnamese,roast lamb
+Chenin Blanc,White,Cheese,Vietnamese,cheese platter
+Sauvignon Blanc,White,Red Meat,Greek,grilled ribeye
+Viognier,White,Poultry,Middle Eastern,chicken curry
+Chardonnay,White,Acidic,Indian,caprese salad
+Grüner Veltliner,White,Red Meat,Middle Eastern,roast lamb
+White Zinfandel,Rosé,Red Meat,Greek,beef stew
+Ice Wine,Dessert,Smoky BBQ,Moroccan,bbq ribs
+Grenache,Red,Red Meat,Moroccan,grilled ribeye
+Grenache,Red,Cheese,Mexican,fondue
+Pinot Noir,Red,Red Meat,Japanese,grilled ribeye
+Merlot,Red,Pork,American BBQ,carbonara
+Port,Fortified,Dessert,Vietnamese,sorbet
+Torrontés,White,Spicy,Indian,Thai curry
+Port,Fortified,Red Meat,Chinese (Sichuan),grilled ribeye
+Provence Rosé,Rosé,Cheese,Greek,fondue
+Viognier,White,Acidic,Greek,gazpacho
+Grenache,Red,Red Meat,Spanish,roast lamb
+Grenache,Red,Red Meat,French,grilled ribeye
+Ice Wine,Dessert,Dessert,Indian,lemon tart
+Tempranillo,Red,Cheese,Argentinian,fondue
+Port,Fortified,Dessert,Argentinian,cheesecake
+Sauternes,Dessert,Seafood,American BBQ,shrimp scampi
+Cava,Sparkling,Cheese,Greek,cheese platter
+Provence Rosé,Rosé,Acidic,Spanish,caprese salad
+Zinfandel,Red,Smoky BBQ,Chinese (Sichuan),smoked sausage
+Sauternes,Dessert,Salty Snack,Thai,charcuterie board
+Tempranillo,Red,Red Meat,Thai,roast lamb
+Sangiovese,Red,Red Meat,German,beef stew
+Sauternes,Dessert,Cheese,Ethiopian,mac and cheese
+Sauvignon Blanc,White,Cheese,Vietnamese,fondue
+Malbec,Red,Smoky BBQ,Ethiopian,bbq ribs
+Ice Wine,Dessert,Red Meat,American BBQ,bbq brisket
+Port,Fortified,Red Meat,Japanese,bbq brisket
+Nebbiolo,Red,Red Meat,French,beef stew
+Madeira,Fortified,Dessert,Thai,chocolate mousse
+Sauvignon Blanc,White,Red Meat,Indian,bbq brisket
+Sauvignon Blanc,White,Creamy,German,cream of mushroom soup
+Sangiovese,Red,Cheese,Ethiopian,cheese platter
+Chardonnay,White,Pork,Korean,carbonara
+Sauvignon Blanc,White,Acidic,Korean,citrus salad
+Champagne,Sparkling,Red Meat,German,bbq brisket
+Malbec,Red,Cheese,Vietnamese,mac and cheese
+Merlot,Red,Creamy,Chinese (Sichuan),cream of mushroom soup
+Cabernet Sauvignon,Red,Red Meat,Middle Eastern,grilled ribeye
+Albariño,White,Dessert,Ethiopian,chocolate mousse
+Zinfandel,Red,Red Meat,Italian,roast lamb
+Viognier,White,Red Meat,Ethiopian,bbq brisket
+Merlot,Red,Pork,Thai,carbonara
+Pinot Noir,Red,Vegetarian,Moroccan,stir-fried tofu
+Chardonnay,White,Acidic,French,caprese salad
+Sauternes,Dessert,Vegetarian,Argentinian,stir-fried tofu
+Pinot Noir,Red,Poultry,Japanese,roast chicken with herbs
+Sangiovese,Red,Red Meat,Korean,beef stew
+Cabernet Sauvignon,Red,Cheese,Middle Eastern,cheese platter
+Cava,Sparkling,Salty Snack,American BBQ,mixed nuts
+Syrah/Shiraz,Red,Cheese,Thai,fondue
+Merlot,Red,Creamy,Italian,cream of mushroom soup
+Pinot Noir,Red,Red Meat,Moroccan,beef stew
+Nebbiolo,Red,Acidic,Middle Eastern,caprese salad
+Zinfandel,Red,Smoky BBQ,German,smoked sausage
+Albariño,White,Seafood,Mexican,fish tacos
+Albariño,White,Acidic,Argentinian,gazpacho
+Torrontés,White,Acidic,Mexican,caprese salad
+Grenache,Red,Cheese,Moroccan,fondue
+Viognier,White,Poultry,Greek,roast chicken with herbs
+Nebbiolo,Red,Cheese,Japanese,fondue
+Torrontés,White,Acidic,Middle Eastern,gazpacho
+Syrah/Shiraz,Red,Smoky BBQ,Middle Eastern,grilled burger
+Zinfandel,Red,Red Meat,Argentinian,roast lamb
+Zinfandel,Red,Smoky BBQ,Middle Eastern,bbq ribs
+Sauternes,Dessert,Dessert,Japanese,chocolate mousse
+Gamay (Beaujolais),Red,Seafood,Thai,fish tacos
+Port,Fortified,Cheese,American BBQ,cheese platter
+Ice Wine,Dessert,Vegetarian,Indian,mushroom risotto
+Ice Wine,Dessert,Seafood,Japanese,fish tacos
+Torrontés,White,Cheese,Moroccan,cheese platter
+White Zinfandel,Rosé,Acidic,Mexican,caprese salad
+Malbec,Red,Red Meat,Greek,beef stew
+Pinot Noir,Red,Acidic,Thai,citrus salad
+Merlot,Red,Pork,Middle Eastern,pork tenderloin
+Zinfandel,Red,Cheese,Argentinian,fondue
+Chardonnay,White,Cheese,Vietnamese,cheese platter
+Torrontés,White,Red Meat,Vietnamese,roast lamb
+Chardonnay,White,Red Meat,Greek,beef stew
+Malbec,Red,Red Meat,Vietnamese,roast lamb
+Cabernet Sauvignon,Red,Smoky BBQ,French,bbq ribs
+Sangiovese,Red,Red Meat,Japanese,roast lamb
+Syrah/Shiraz,Red,Red Meat,Italian,grilled ribeye
+Sauvignon Blanc,White,Red Meat,Italian,beef stew
+Grenache,Red,Salty Snack,Middle Eastern,olives and cheese
+Zinfandel,Red,Red Meat,German,roast lamb
+Barbera,Red,Cheese,Mexican,mac and cheese
+White Zinfandel,Rosé,Red Meat,French,grilled ribeye
+Pinot Noir,Red,Poultry,Korean,duck à l’orange
+Syrah/Shiraz,Red,Cheese,Chinese (Sichuan),cheese platter
+Sauternes,Dessert,Acidic,Spanish,caprese salad
+Barbera,Red,Acidic,Argentinian,gazpacho
+Cabernet Sauvignon,Red,Red Meat,Thai,beef stew
+White Zinfandel,Rosé,Red Meat,Thai,roast lamb
+Syrah/Shiraz,Red,Cheese,Argentinian,fondue
+Tempranillo,Red,Cheese,American BBQ,fondue
+Albariño,White,Red Meat,German,beef stew
+Port,Fortified,Red Meat,American BBQ,grilled ribeye
+Merlot,Red,Pork,Ethiopian,bacon burger
+Riesling (dry),White,Cheese,Japanese,fondue
+Pinot Noir,Red,Acidic,American BBQ,gazpacho
+Sangiovese,Red,Red Meat,Chinese (Sichuan),bbq brisket
+Grüner Veltliner,White,Creamy,Mexican,cream of mushroom soup
+Port,Fortified,Red Meat,Vietnamese,grilled ribeye
+Pinot Noir,Red,Vegetarian,Vietnamese,mushroom risotto
+Sauvignon Blanc,White,Cheese,Spanish,mac and cheese
+Sauvignon Blanc,White,Vegetarian,Korean,mushroom risotto
+Zinfandel,Red,Red Meat,Japanese,roast lamb
+Riesling (dry),White,Acidic,Italian,gazpacho
+Zinfandel,Red,Smoky BBQ,American BBQ,grilled burger
+Riesling (dry),White,Acidic,Chinese (Sichuan),caprese salad
+Grenache,Red,Salty Snack,Greek,charcuterie board
+Ice Wine,Dessert,Vegetarian,Indian,vegetable curry
+Port,Fortified,Dessert,Japanese,cheesecake
+Ice Wine,Dessert,Red Meat,American BBQ,beef stew
+Ice Wine,Dessert,Pork,French,pork tenderloin
+Albariño,White,Seafood,Mexican,grilled salmon
+Cabernet Sauvignon,Red,Red Meat,French,bbq brisket
+Merlot,Red,Acidic,Spanish,gazpacho
+Sauvignon Blanc,White,Creamy,Argentinian,carbonara
+Cabernet Sauvignon,Red,Acidic,Spanish,citrus salad
+Sauternes,Dessert,Acidic,French,gazpacho
+Champagne,Sparkling,Cheese,Chinese (Sichuan),cheese platter
+Zinfandel,Red,Cheese,Greek,fondue
+Cava,Sparkling,Cheese,Chinese (Sichuan),cheese platter
+Sauternes,Dessert,Salty Snack,Indian,olives and cheese
+Sangiovese,Red,Acidic,French,caprese salad
+Riesling (dry),White,Red Meat,American BBQ,roast lamb
+Port,Fortified,Red Meat,Vietnamese,beef stew
+Champagne,Sparkling,Acidic,Indian,citrus salad
+Sauternes,Dessert,Salty Snack,Spanish,olives and cheese
+Merlot,Red,Salty Snack,Vietnamese,olives and cheese
+Cava,Sparkling,Acidic,Argentinian,citrus salad
+Champagne,Sparkling,Cheese,Korean,cheese platter
+Zinfandel,Red,Acidic,Middle Eastern,gazpacho
+Nebbiolo,Red,Seafood,Italian,fish tacos
+Merlot,Red,Pork,German,pork tenderloin
+Cabernet Sauvignon,Red,Red Meat,Moroccan,roast lamb
+Champagne,Sparkling,Red Meat,Indian,bbq brisket
+Viognier,White,Red Meat,Middle Eastern,roast lamb
+Champagne,Sparkling,Red Meat,Moroccan,roast lamb
+Zinfandel,Red,Acidic,Mexican,caprese salad
+Albariño,White,Red Meat,Thai,roast lamb
+Albariño,White,Red Meat,French,bbq brisket
+Gamay (Beaujolais),Red,Cheese,Korean,cheese platter
+Provence Rosé,Rosé,Red Meat,Thai,bbq brisket
+Torrontés,White,Cheese,Argentinian,cheese platter
+Barbera,Red,Red Meat,Mexican,beef stew
+Ice Wine,Dessert,Acidic,Argentinian,citrus salad
+Merlot,Red,Cheese,Argentinian,cheese platter
+Chardonnay,White,Pork,Moroccan,carbonara
+Gewürztraminer,White,Red Meat,French,grilled ribeye
+Chenin Blanc,White,Cheese,Greek,mac and cheese
+Grenache,Red,Acidic,Thai,caprese salad
+Albariño,White,Red Meat,Chinese (Sichuan),beef stew
+Albariño,White,Red Meat,Mexican,bbq brisket
+Viognier,White,Pork,American BBQ,bacon burger
+Ice Wine,Dessert,Salty Snack,Greek,mixed nuts
+Merlot,Red,Pork,Spanish,pork tenderloin
+Tempranillo,Red,Cheese,Moroccan,fondue
+Torrontés,White,Cheese,American BBQ,fondue
+Grenache,Red,Acidic,Korean,caprese salad
+Sauternes,Dessert,Pork,German,pork tenderloin
+Sauvignon Blanc,White,Red Meat,Middle Eastern,beef stew
+Madeira,Fortified,Cheese,Thai,cheese platter
+Grüner Veltliner,White,Acidic,Thai,caprese salad
+Port,Fortified,Dessert,Moroccan,sorbet
+Sangiovese,Red,Red Meat,Spanish,grilled ribeye
+Sauvignon Blanc,White,Seafood,Spanish,fish tacos
+Provence Rosé,Rosé,Acidic,Korean,gazpacho
+Pinot Noir,Red,Cheese,Mexican,fondue
+Syrah/Shiraz,Red,Smoky BBQ,Indian,grilled burger
+Grüner Veltliner,White,Red Meat,Mexican,roast lamb
+Pinot Noir,Red,Vegetarian,Mexican,vegetable curry
+Gamay (Beaujolais),Red,Cheese,Japanese,mac and cheese
+Champagne,Sparkling,Cheese,Ethiopian,fondue
+Malbec,Red,Acidic,Mexican,citrus salad
+Ice Wine,Dessert,Dessert,Mexican,lemon tart
+Albariño,White,Dessert,Japanese,cheesecake
+Ice Wine,Dessert,Pork,Middle Eastern,carbonara
+Grenache,Red,Cheese,Middle Eastern,fondue
+Chenin Blanc,White,Red Meat,French,bbq brisket
+Barbera,Red,Red Meat,Italian,roast lamb
+Gamay (Beaujolais),Red,Cheese,Middle Eastern,fondue
+Champagne,Sparkling,Seafood,Italian,shrimp scampi
+Syrah/Shiraz,Red,Acidic,Japanese,citrus salad
+Torrontés,White,Cheese,Middle Eastern,cheese platter
+Port,Fortified,Dessert,Korean,lemon tart
+Chardonnay,White,Pork,Indian,pork tenderloin
+Sauvignon Blanc,White,Creamy,Argentinian,cream of mushroom soup
+Chardonnay,White,Poultry,Vietnamese,duck à l’orange
+Nebbiolo,Red,Spicy,Mexican,Sichuan noodles
+Torrontés,White,Red Meat,American BBQ,beef stew
+Sauternes,Dessert,Pork,Italian,bacon burger
+Grüner Veltliner,White,Creamy,German,alfredo pasta
+Syrah/Shiraz,Red,Acidic,French,citrus salad
+Ice Wine,Dessert,Salty Snack,Korean,charcuterie board
+Cabernet Sauvignon,Red,Red Meat,Japanese,grilled ribeye
+Port,Fortified,Dessert,French,cheesecake
+Sauternes,Dessert,Red Meat,Indian,grilled ribeye
+Ice Wine,Dessert,Salty Snack,Argentinian,olives and cheese
+Gamay (Beaujolais),Red,Acidic,Mexican,gazpacho
+Riesling (dry),White,Spicy,Moroccan,Sichuan noodles
+Sauternes,Dessert,Seafood,German,shrimp scampi
+Sauvignon Blanc,White,Acidic,Italian,gazpacho
+Sangiovese,Red,Cheese,Spanish,mac and cheese
+Grenache,Red,Cheese,Japanese,mac and cheese
+Grüner Veltliner,White,Red Meat,German,grilled ribeye
+Cava,Sparkling,Red Meat,Indian,beef stew
+Nebbiolo,Red,Cheese,Thai,fondue
+Port,Fortified,Cheese,Indian,mac and cheese
+Grüner Veltliner,White,Seafood,Mexican,oysters
+Port,Fortified,Red Meat,Thai,roast lamb
+Grenache,Red,Cheese,Chinese (Sichuan),fondue
+Malbec,Red,Acidic,Indian,citrus salad
+Nebbiolo,Red,Seafood,Ethiopian,grilled salmon
+Madeira,Fortified,Cheese,Vietnamese,mac and cheese
+Torrontés,White,Red Meat,Argentinian,roast lamb
+Grüner Veltliner,White,Seafood,Ethiopian,shrimp scampi
+Ice Wine,Dessert,Dessert,French,lemon tart
+Gamay (Beaujolais),Red,Red Meat,Thai,grilled ribeye
+Pinot Noir,Red,Red Meat,German,bbq brisket
+Viognier,White,Cheese,French,fondue
+White Zinfandel,Rosé,Red Meat,American BBQ,grilled ribeye
+Provence Rosé,Rosé,Acidic,Spanish,gazpacho
+Viognier,White,Creamy,Vietnamese,alfredo pasta
+Albariño,White,Creamy,Argentinian,alfredo pasta
+Syrah/Shiraz,Red,Cheese,Vietnamese,fondue
+Sauternes,Dessert,Salty Snack,American BBQ,mixed nuts
+Sauvignon Blanc,White,Creamy,Indian,carbonara
+Ice Wine,Dessert,Vegetarian,French,stir-fried tofu
+Riesling (dry),White,Spicy,Moroccan,Indian vindaloo
+Nebbiolo,Red,Red Meat,Middle Eastern,beef stew
+Chardonnay,White,Red Meat,Greek,grilled ribeye
+Nebbiolo,Red,Red Meat,Moroccan,beef stew
+Gamay (Beaujolais),Red,Seafood,Italian,grilled salmon
+Viognier,White,Cheese,Ethiopian,cheese platter
+Torrontés,White,Red Meat,Chinese (Sichuan),bbq brisket
+Ice Wine,Dessert,Dessert,Indian,chocolate mousse
+Grüner Veltliner,White,Acidic,American BBQ,citrus salad
+Cava,Sparkling,Salty Snack,Chinese (Sichuan),mixed nuts
+Sauvignon Blanc,White,Acidic,Middle Eastern,gazpacho
+Viognier,White,Red Meat,Italian,grilled ribeye
+Sangiovese,Red,Red Meat,Mexican,grilled ribeye
+Gewürztraminer,White,Cheese,Greek,cheese platter
+Sauternes,Dessert,Salty Snack,French,mixed nuts
+White Zinfandel,Rosé,Red Meat,French,bbq brisket
+Riesling (dry),White,Red Meat,Italian,roast lamb
+Torrontés,White,Cheese,Moroccan,fondue
+Gamay (Beaujolais),Red,Cheese,Japanese,fondue
+Ice Wine,Dessert,Salty Snack,French,charcuterie board
+Syrah/Shiraz,Red,Smoky BBQ,Italian,smoked sausage
+Viognier,White,Poultry,Indian,chicken curry
+Riesling (dry),White,Cheese,Argentinian,cheese platter
+Zinfandel,Red,Acidic,Mexican,citrus salad
+Champagne,Sparkling,Cheese,German,mac and cheese
+Champagne,Sparkling,Seafood,Mexican,grilled salmon
+Nebbiolo,Red,Seafood,Moroccan,fish tacos
+Sauternes,Dessert,Dessert,French,sorbet
+Merlot,Red,Creamy,Thai,cream of mushroom soup
+Chardonnay,White,Creamy,Spanish,alfredo pasta
+Riesling (dry),White,Cheese,Middle Eastern,fondue
+Sauternes,Dessert,Salty Snack,Spanish,charcuterie board
+Grüner Veltliner,White,Vegetarian,Chinese (Sichuan),stir-fried tofu
+Grenache,Red,Acidic,Mexican,caprese salad
+Port,Fortified,Dessert,Thai,chocolate mousse
+Gewürztraminer,White,Spicy,Spanish,Sichuan noodles
+Zinfandel,Red,Acidic,Middle Eastern,caprese salad
+Cava,Sparkling,Seafood,Italian,oysters
+Sangiovese,Red,Vegetarian,Italian,mushroom risotto
+Tempranillo,Red,Acidic,Chinese (Sichuan),gazpacho
+Port,Fortified,Dessert,Chinese (Sichuan),chocolate mousse
+Champagne,Sparkling,Salty Snack,Japanese,olives and cheese
+Ice Wine,Dessert,Red Meat,Italian,bbq brisket
+Provence Rosé,Rosé,Acidic,Ethiopian,gazpacho
+Chardonnay,White,Red Meat,Middle Eastern,grilled ribeye
+Grüner Veltliner,White,Dessert,Italian,lemon tart
+Gewürztraminer,White,Spicy,French,Sichuan noodles
+Albariño,White,Vegetarian,Middle Eastern,vegetable curry
+Chardonnay,White,Red Meat,Spanish,bbq brisket
+Torrontés,White,Spicy,Vietnamese,Thai curry
+Viognier,White,Red Meat,Greek,roast lamb
+Cava,Sparkling,Red Meat,German,grilled ribeye
+Grenache,Red,Acidic,Moroccan,citrus salad
+Cava,Sparkling,Cheese,American BBQ,cheese platter
+Riesling (dry),White,Acidic,Middle Eastern,gazpacho
+Riesling (dry),White,Cheese,Japanese,mac and cheese
+Champagne,Sparkling,Acidic,Ethiopian,gazpacho
+Grenache,Red,Pork,Spanish,bacon burger
+Barbera,Red,Cheese,German,mac and cheese
+Sauternes,Dessert,Red Meat,Chinese (Sichuan),bbq brisket
+Ice Wine,Dessert,Seafood,Moroccan,shrimp scampi
+Sauternes,Dessert,Dessert,Greek,lemon tart
+Pinot Noir,Red,Poultry,Greek,duck à l’orange
+Sauvignon Blanc,White,Dessert,Greek,lemon tart
+Nebbiolo,Red,Pork,Middle Eastern,pork tenderloin
+Gewürztraminer,White,Red Meat,Chinese (Sichuan),grilled ribeye
+Champagne,Sparkling,Salty Snack,French,charcuterie board
+Riesling (dry),White,Acidic,Korean,citrus salad
+Grüner Veltliner,White,Seafood,Italian,fish tacos
+Gamay (Beaujolais),Red,Cheese,Ethiopian,mac and cheese
+Sauvignon Blanc,White,Red Meat,Korean,grilled ribeye
+Grüner Veltliner,White,Creamy,Middle Eastern,cream of mushroom soup
+Torrontés,White,Spicy,Italian,Indian vindaloo
+Sauvignon Blanc,White,Dessert,American BBQ,lemon tart
+Champagne,Sparkling,Salty Snack,Greek,olives and cheese
+Grüner Veltliner,White,Red Meat,Ethiopian,beef stew
+Sangiovese,Red,Acidic,Chinese (Sichuan),citrus salad
+Champagne,Sparkling,Acidic,Spanish,gazpacho
+Champagne,Sparkling,Cheese,Middle Eastern,mac and cheese
+White Zinfandel,Rosé,Red Meat,Japanese,roast lamb
+Cava,Sparkling,Acidic,Chinese (Sichuan),caprese salad
+Nebbiolo,Red,Spicy,Middle Eastern,Sichuan noodles
+Chardonnay,White,Acidic,Greek,caprese salad
+Cabernet Sauvignon,Red,Acidic,Middle Eastern,citrus salad
+Syrah/Shiraz,Red,Cheese,Middle Eastern,fondue
+Madeira,Fortified,Cheese,Moroccan,fondue
+Chardonnay,White,Cheese,Mexican,cheese platter
+Grenache,Red,Pork,Indian,bacon burger
+Chardonnay,White,Cheese,American BBQ,mac and cheese
+Grenache,Red,Salty Snack,Vietnamese,charcuterie board
+Champagne,Sparkling,Seafood,Chinese (Sichuan),oysters
+Sangiovese,Red,Red Meat,Mexican,beef stew
+Port,Fortified,Red Meat,Middle Eastern,grilled ribeye
+Grenache,Red,Creamy,Japanese,alfredo pasta
+Provence Rosé,Rosé,Red Meat,Mexican,bbq brisket
+Sauternes,Dessert,Smoky BBQ,Japanese,smoked sausage
+Zinfandel,Red,Cheese,Middle Eastern,mac and cheese
+Cabernet Sauvignon,Red,Acidic,Ethiopian,caprese salad
+Chenin Blanc,White,Acidic,Italian,gazpacho
+Gamay (Beaujolais),Red,Cheese,Vietnamese,fondue
+Tempranillo,Red,Red Meat,Mexican,roast lamb
+Nebbiolo,Red,Creamy,Ethiopian,cream of mushroom soup
+Gamay (Beaujolais),Red,Cheese,Indian,mac and cheese
+Albariño,White,Red Meat,Indian,grilled ribeye
+Torrontés,White,Red Meat,Spanish,grilled ribeye
+Nebbiolo,Red,Pork,Argentinian,pork tenderloin
+Grenache,Red,Cheese,American BBQ,fondue
+Sauvignon Blanc,White,Red Meat,Italian,bbq brisket
+Cava,Sparkling,Seafood,Korean,grilled salmon
+Madeira,Fortified,Red Meat,Indian,beef stew
+Albariño,White,Seafood,German,fish tacos
+Ice Wine,Dessert,Salty Snack,Vietnamese,olives and cheese
+Nebbiolo,Red,Cheese,Korean,mac and cheese
+Sangiovese,Red,Vegetarian,Greek,mushroom risotto
+Chardonnay,White,Red Meat,Italian,beef stew
+Sauternes,Dessert,Pork,American BBQ,bacon burger
+Cava,Sparkling,Seafood,French,oysters
+Provence Rosé,Rosé,Acidic,French,gazpacho
+Madeira,Fortified,Acidic,Thai,caprese salad
+Syrah/Shiraz,Red,Red Meat,Spanish,roast lamb
+Ice Wine,Dessert,Salty Snack,Thai,mixed nuts
+Riesling (dry),White,Red Meat,Spanish,bbq brisket
+Grüner Veltliner,White,Dessert,Chinese (Sichuan),lemon tart
+Ice Wine,Dessert,Salty Snack,Thai,olives and cheese
+Chardonnay,White,Creamy,Chinese (Sichuan),cream of mushroom soup
+Gamay (Beaujolais),Red,Seafood,Indian,shrimp scampi
+Pinot Noir,Red,Acidic,Chinese (Sichuan),caprese salad
+Port,Fortified,Dessert,American BBQ,lemon tart
+Malbec,Red,Red Meat,Middle Eastern,beef stew
+Provence Rosé,Rosé,Acidic,French,caprese salad
+Pinot Noir,Red,Red Meat,Spanish,beef stew
+Champagne,Sparkling,Cheese,Ethiopian,cheese platter
+Nebbiolo,Red,Acidic,Vietnamese,citrus salad
+Tempranillo,Red,Red Meat,Japanese,grilled ribeye
+Pinot Noir,Red,Vegetarian,Spanish,vegetable curry
+Albariño,White,Creamy,Ethiopian,alfredo pasta
+Grenache,Red,Acidic,Chinese (Sichuan),citrus salad
+Port,Fortified,Red Meat,American BBQ,beef stew
+Nebbiolo,Red,Creamy,Indian,cream of mushroom soup
+Barbera,Red,Red Meat,Moroccan,roast lamb
+Pinot Noir,Red,Acidic,Spanish,caprese salad
+Nebbiolo,Red,Seafood,Thai,fish tacos
+Sauternes,Dessert,Pork,Thai,carbonara
+Pinot Noir,Red,Vegetarian,Middle Eastern,mushroom risotto
+Grüner Veltliner,White,Vegetarian,Argentinian,mushroom risotto
+Riesling (dry),White,Red Meat,Middle Eastern,beef stew
+Pinot Noir,Red,Vegetarian,American BBQ,mushroom risotto
+Ice Wine,Dessert,Salty Snack,French,olives and cheese
+Barbera,Red,Cheese,Mexican,fondue
+Riesling (dry),White,Red Meat,German,bbq brisket
+White Zinfandel,Rosé,Cheese,Chinese (Sichuan),mac and cheese
+Gamay (Beaujolais),Red,Red Meat,Moroccan,roast lamb
+Port,Fortified,Cheese,Japanese,fondue
+Pinot Noir,Red,Vegetarian,Chinese (Sichuan),mushroom risotto
+Zinfandel,Red,Cheese,Thai,cheese platter
+Madeira,Fortified,Acidic,Mexican,gazpacho
+Chardonnay,White,Cheese,French,cheese platter
+Sauvignon Blanc,White,Acidic,Spanish,caprese salad
+Madeira,Fortified,Red Meat,Middle Eastern,bbq brisket
+Viognier,White,Acidic,Moroccan,caprese salad
+Ice Wine,Dessert,Seafood,German,oysters
+Pinot Noir,Red,Cheese,Spanish,cheese platter
+Chardonnay,White,Acidic,Middle Eastern,citrus salad
+Ice Wine,Dessert,Pork,Chinese (Sichuan),bacon burger
+Malbec,Red,Cheese,Spanish,mac and cheese
+Port,Fortified,Acidic,Japanese,caprese salad
+Chardonnay,White,Acidic,Argentinian,gazpacho
+Grenache,Red,Pork,French,pork tenderloin
+Cava,Sparkling,Cheese,Vietnamese,fondue
+Sauternes,Dessert,Poultry,Korean,chicken curry
+Malbec,Red,Red Meat,Korean,roast lamb
+Madeira,Fortified,Dessert,American BBQ,sorbet
+Port,Fortified,Cheese,Thai,mac and cheese
+Nebbiolo,Red,Spicy,Greek,Sichuan noodles
+Sauvignon Blanc,White,Creamy,Moroccan,cream of mushroom soup
+Champagne,Sparkling,Seafood,Moroccan,oysters
+Sangiovese,Red,Vegetarian,Middle Eastern,vegetable curry
+Tempranillo,Red,Cheese,German,mac and cheese
+Nebbiolo,Red,Acidic,Moroccan,citrus salad
+Gewürztraminer,White,Red Meat,French,beef stew
+Sangiovese,Red,Red Meat,Spanish,bbq brisket
+Merlot,Red,Red Meat,Chinese (Sichuan),bbq brisket
+Grenache,Red,Acidic,German,gazpacho
+Madeira,Fortified,Dessert,Indian,chocolate mousse
+Gewürztraminer,White,Red Meat,Argentinian,grilled ribeye
+Riesling (dry),White,Red Meat,Italian,beef stew
+Sauvignon Blanc,White,Dessert,Thai,cheesecake
+Sauvignon Blanc,White,Cheese,German,fondue
+Viognier,White,Cheese,Argentinian,fondue
+Ice Wine,Dessert,Dessert,Chinese (Sichuan),chocolate mousse
+Tempranillo,Red,Cheese,Chinese (Sichuan),fondue
+Madeira,Fortified,Cheese,American BBQ,fondue
+Sauternes,Dessert,Cheese,Spanish,cheese platter
+Tempranillo,Red,Red Meat,Mexican,beef stew
+Chenin Blanc,White,Cheese,Vietnamese,fondue
+Champagne,Sparkling,Red Meat,Indian,roast lamb
+Albariño,White,Creamy,Japanese,alfredo pasta
+Ice Wine,Dessert,Smoky BBQ,Vietnamese,bbq ribs
+Sauvignon Blanc,White,Creamy,Middle Eastern,carbonara
+Pinot Noir,Red,Poultry,Moroccan,duck à l’orange
+Sauvignon Blanc,White,Acidic,Middle Eastern,citrus salad
+Nebbiolo,Red,Cheese,Middle Eastern,mac and cheese
+Albariño,White,Creamy,Ethiopian,cream of mushroom soup
+Nebbiolo,Red,Spicy,Spanish,Indian vindaloo
+Pinot Noir,Red,Vegetarian,Greek,vegetable curry
+Albariño,White,Dessert,Vietnamese,sorbet
+Cabernet Sauvignon,Red,Red Meat,Chinese (Sichuan),grilled ribeye
+Champagne,Sparkling,Seafood,Indian,shrimp scampi
+Port,Fortified,Red Meat,American BBQ,bbq brisket
+Merlot,Red,Cheese,Argentinian,mac and cheese
+Merlot,Red,Creamy,Italian,carbonara
+Merlot,Red,Salty Snack,American BBQ,charcuterie board
+Nebbiolo,Red,Acidic,Moroccan,gazpacho
+Grüner Veltliner,White,Red Meat,Moroccan,beef stew
+Viognier,White,Creamy,Italian,cream of mushroom soup
+Cabernet Sauvignon,Red,Red Meat,Ethiopian,roast lamb
+Grenache,Red,Pork,French,carbonara
+Grüner Veltliner,White,Cheese,Argentinian,cheese platter
+Merlot,Red,Red Meat,German,bbq brisket
+Viognier,White,Acidic,German,gazpacho
+Sauternes,Dessert,Salty Snack,Japanese,mixed nuts
+Grenache,Red,Acidic,French,caprese salad
+Nebbiolo,Red,Creamy,French,carbonara
+Madeira,Fortified,Red Meat,Greek,roast lamb
+Sauternes,Dessert,Seafood,Chinese (Sichuan),shrimp scampi
+Sauvignon Blanc,White,Red Meat,German,grilled ribeye
+Gewürztraminer,White,Spicy,Chinese (Sichuan),Indian vindaloo
+Ice Wine,Dessert,Seafood,Italian,fish tacos
+Torrontés,White,Red Meat,Moroccan,grilled ribeye
+Champagne,Sparkling,Acidic,Korean,caprese salad
+Zinfandel,Red,Smoky BBQ,Argentinian,grilled burger
+Champagne,Sparkling,Red Meat,Vietnamese,bbq brisket
+Viognier,White,Pork,Japanese,bacon burger
+Sauvignon Blanc,White,Dessert,Thai,chocolate mousse
+Grüner Veltliner,White,Vegetarian,Thai,mushroom risotto
+Chenin Blanc,White,Red Meat,American BBQ,grilled ribeye
+Port,Fortified,Cheese,Vietnamese,fondue
+Ice Wine,Dessert,Salty Snack,Chinese (Sichuan),olives and cheese
+Cava,Sparkling,Red Meat,Vietnamese,roast lamb
+Sangiovese,Red,Red Meat,Italian,roast lamb
+Nebbiolo,Red,Cheese,Moroccan,fondue
+Nebbiolo,Red,Creamy,Spanish,cream of mushroom soup
+Riesling (dry),White,Red Meat,Spanish,grilled ribeye
+Chardonnay,White,Creamy,Italian,cream of mushroom soup
+Malbec,Red,Cheese,Middle Eastern,cheese platter
+Nebbiolo,Red,Acidic,Moroccan,caprese salad
+Cabernet Sauvignon,Red,Acidic,Italian,gazpacho
+Sangiovese,Red,Poultry,Italian,duck à l’orange
+Riesling (dry),White,Spicy,Middle Eastern,Indian vindaloo
+Zinfandel,Red,Smoky BBQ,Thai,grilled burger
+Viognier,White,Acidic,Ethiopian,citrus salad
+Ice Wine,Dessert,Salty Snack,German,charcuterie board
+Sauternes,Dessert,Dessert,French,chocolate mousse
+Grüner Veltliner,White,Seafood,Middle Eastern,fish tacos
+Madeira,Fortified,Red Meat,German,roast lamb
+Gamay (Beaujolais),Red,Seafood,Vietnamese,fish tacos
+Torrontés,White,Cheese,Indian,fondue
+Ice Wine,Dessert,Pork,Thai,pork tenderloin
+Grenache,Red,Creamy,Mexican,cream of mushroom soup
+Malbec,Red,Red Meat,Indian,beef stew
+Cava,Sparkling,Cheese,Japanese,fondue
+Champagne,Sparkling,Red Meat,Indian,beef stew
+Cabernet Sauvignon,Red,Red Meat,Thai,roast lamb
+Nebbiolo,Red,Acidic,Indian,gazpacho
+Grenache,Red,Salty Snack,Mexican,olives and cheese
+Ice Wine,Dessert,Smoky BBQ,Italian,smoked sausage
+Champagne,Sparkling,Seafood,Chinese (Sichuan),grilled salmon
+Sauvignon Blanc,White,Seafood,Greek,grilled salmon
+Grüner Veltliner,White,Red Meat,Greek,roast lamb
+Gewürztraminer,White,Acidic,Japanese,caprese salad
+Madeira,Fortified,Dessert,Argentinian,cheesecake
+Provence Rosé,Rosé,Acidic,Argentinian,citrus salad
+Sauvignon Blanc,White,Cheese,Vietnamese,mac and cheese
+Riesling (dry),White,Red Meat,Chinese (Sichuan),bbq brisket
+Chenin Blanc,White,Cheese,Italian,mac and cheese
+Gamay (Beaujolais),Red,Seafood,Middle Eastern,grilled salmon
+Albariño,White,Red Meat,French,beef stew
+Port,Fortified,Cheese,Italian,cheese platter
+Viognier,White,Acidic,Spanish,citrus salad
+Provence Rosé,Rosé,Acidic,Chinese (Sichuan),caprese salad
+Grenache,Red,Acidic,German,caprese salad
+Grüner Veltliner,White,Vegetarian,Indian,stir-fried tofu
+Malbec,Red,Acidic,Thai,gazpacho
+Sangiovese,Red,Vegetarian,Korean,vegetable curry
+Malbec,Red,Acidic,Argentinian,caprese salad
+Sangiovese,Red,Cheese,Italian,cheese platter
+Sauternes,Dessert,Salty Snack,Vietnamese,charcuterie board
+Ice Wine,Dessert,Poultry,Vietnamese,roast chicken with herbs
+Torrontés,White,Spicy,Thai,Thai curry
+Sangiovese,Red,Poultry,Moroccan,chicken curry
+White Zinfandel,Rosé,Red Meat,Spanish,beef stew
+Port,Fortified,Dessert,Indian,chocolate mousse
+Cabernet Sauvignon,Red,Red Meat,Argentinian,beef stew
+Sauvignon Blanc,White,Cheese,Thai,cheese platter
+Sauvignon Blanc,White,Red Meat,Vietnamese,bbq brisket
+Sauternes,Dessert,Cheese,Middle Eastern,fondue
+Sauternes,Dessert,Vegetarian,Italian,mushroom risotto
+Malbec,Red,Acidic,Ethiopian,citrus salad
+Champagne,Sparkling,Salty Snack,American BBQ,olives and cheese
+Viognier,White,Poultry,Moroccan,chicken curry
+Malbec,Red,Red Meat,German,grilled ribeye
+Merlot,Red,Pork,French,pork tenderloin
+Grüner Veltliner,White,Vegetarian,Spanish,mushroom risotto
+Sauternes,Dessert,Dessert,American BBQ,chocolate mousse
+Torrontés,White,Red Meat,Indian,roast lamb
+Ice Wine,Dessert,Seafood,Japanese,grilled salmon
+Nebbiolo,Red,Spicy,French,Sichuan noodles
+Madeira,Fortified,Cheese,Greek,fondue
+Sauvignon Blanc,White,Dessert,Mexican,sorbet
+Sauvignon Blanc,White,Dessert,French,sorbet
+Albariño,White,Red Meat,Indian,beef stew
+Madeira,Fortified,Dessert,Middle Eastern,cheesecake
+Torrontés,White,Spicy,French,Indian vindaloo
+Ice Wine,Dessert,Red Meat,Middle Eastern,roast lamb
+Syrah/Shiraz,Red,Acidic,Spanish,citrus salad
+Syrah/Shiraz,Red,Cheese,Middle Eastern,mac and cheese
+Champagne,Sparkling,Salty Snack,Indian,olives and cheese
+Viognier,White,Creamy,Spanish,alfredo pasta
+Ice Wine,Dessert,Seafood,Vietnamese,shrimp scampi
+Torrontés,White,Cheese,Argentinian,mac and cheese
+Champagne,Sparkling,Red Meat,German,roast lamb
+Ice Wine,Dessert,Cheese,Italian,cheese platter
+Viognier,White,Poultry,Moroccan,roast chicken with herbs
+Grüner Veltliner,White,Dessert,Mexican,sorbet
+Champagne,Sparkling,Cheese,German,fondue
+Provence Rosé,Rosé,Red Meat,Chinese (Sichuan),bbq brisket
+Zinfandel,Red,Smoky BBQ,Korean,bbq ribs
+Cabernet Sauvignon,Red,Red Meat,Mexican,beef stew
+Albariño,White,Creamy,French,alfredo pasta
+Malbec,Red,Red Meat,Thai,bbq brisket
+Torrontés,White,Cheese,Mexican,fondue
+Barbera,Red,Cheese,Middle Eastern,cheese platter
+Albariño,White,Vegetarian,Vietnamese,vegetable curry
+Sauvignon Blanc,White,Seafood,Korean,grilled salmon
+Chardonnay,White,Cheese,Italian,cheese platter
+Chardonnay,White,Red Meat,Japanese,bbq brisket
+Chenin Blanc,White,Acidic,Ethiopian,citrus salad
+White Zinfandel,Rosé,Acidic,Chinese (Sichuan),citrus salad
+Sauvignon Blanc,White,Acidic,Moroccan,gazpacho
+Sauvignon Blanc,White,Acidic,Thai,citrus salad
+Gewürztraminer,White,Cheese,Ethiopian,cheese platter
+Madeira,Fortified,Dessert,Vietnamese,sorbet
+Ice Wine,Dessert,Salty Snack,Moroccan,mixed nuts
+Syrah/Shiraz,Red,Red Meat,Moroccan,bbq brisket
+Nebbiolo,Red,Acidic,Middle Eastern,citrus salad
+Albariño,White,Red Meat,Argentinian,grilled ribeye
+Malbec,Red,Smoky BBQ,Greek,smoked sausage
+Sangiovese,Red,Vegetarian,Japanese,mushroom risotto
+Ice Wine,Dessert,Smoky BBQ,German,bbq ribs
+Grüner Veltliner,White,Red Meat,Indian,roast lamb
+Grenache,Red,Pork,Vietnamese,carbonara
+Port,Fortified,Cheese,Mexican,cheese platter
+Cava,Sparkling,Cheese,Thai,fondue
+Albariño,White,Cheese,French,mac and cheese
+Gewürztraminer,White,Red Meat,Korean,beef stew
+Provence Rosé,Rosé,Red Meat,Japanese,grilled ribeye
+Cabernet Sauvignon,Red,Red Meat,American BBQ,bbq brisket
+Grüner Veltliner,White,Dessert,Thai,sorbet
+Chenin Blanc,White,Acidic,Middle Eastern,citrus salad
+Syrah/Shiraz,Red,Red Meat,Korean,roast lamb
+Sauternes,Dessert,Cheese,Spanish,fondue
+Sauvignon Blanc,White,Acidic,Vietnamese,gazpacho
+Port,Fortified,Dessert,German,chocolate mousse
+Cabernet Sauvignon,Red,Cheese,Moroccan,mac and cheese
+Merlot,Red,Red Meat,Chinese (Sichuan),grilled ribeye
+Merlot,Red,Pork,French,bacon burger
+Chenin Blanc,White,Red Meat,Japanese,grilled ribeye
+Albariño,White,Dessert,Thai,lemon tart
+Malbec,Red,Smoky BBQ,Mexican,grilled burger
+Port,Fortified,Cheese,Italian,fondue
+Gewürztraminer,White,Spicy,Indian,Sichuan noodles
+Sangiovese,Red,Poultry,French,roast chicken with herbs
+Syrah/Shiraz,Red,Acidic,Indian,citrus salad
+Grenache,Red,Pork,Italian,bacon burger
+Grenache,Red,Creamy,Korean,cream of mushroom soup
+Sauternes,Dessert,Smoky BBQ,Vietnamese,bbq ribs
+Riesling (dry),White,Acidic,Italian,citrus salad
+Sauternes,Dessert,Pork,Japanese,carbonara
+Grüner Veltliner,White,Cheese,Moroccan,fondue
+Barbera,Red,Red Meat,Greek,roast lamb
+Champagne,Sparkling,Red Meat,Thai,roast lamb
+Grüner Veltliner,White,Red Meat,Korean,grilled ribeye
+Grenache,Red,Acidic,Italian,gazpacho
+Albariño,White,Acidic,Moroccan,gazpacho
+Ice Wine,Dessert,Acidic,French,caprese salad
+Merlot,Red,Acidic,Vietnamese,caprese salad
+Champagne,Sparkling,Cheese,French,mac and cheese
+Grenache,Red,Creamy,Chinese (Sichuan),cream of mushroom soup
+Grüner Veltliner,White,Red Meat,Argentinian,beef stew
+Grenache,Red,Red Meat,Chinese (Sichuan),beef stew
+Merlot,Red,Cheese,Chinese (Sichuan),cheese platter
+Merlot,Red,Acidic,Indian,caprese salad
+Champagne,Sparkling,Cheese,Indian,mac and cheese
+Provence Rosé,Rosé,Red Meat,American BBQ,beef stew
+Sangiovese,Red,Acidic,Italian,citrus salad
+Chardonnay,White,Creamy,Indian,carbonara
+Sangiovese,Red,Red Meat,Greek,roast lamb
+Sauvignon Blanc,White,Creamy,French,alfredo pasta
+Gamay (Beaujolais),Red,Acidic,Indian,gazpacho
+Sauvignon Blanc,White,Dessert,Middle Eastern,lemon tart
+Ice Wine,Dessert,Poultry,Middle Eastern,roast chicken with herbs
+Gamay (Beaujolais),Red,Cheese,German,fondue
+Gewürztraminer,White,Acidic,Mexican,gazpacho
+Grüner Veltliner,White,Red Meat,American BBQ,grilled ribeye
+Nebbiolo,Red,Red Meat,Vietnamese,roast lamb
+Gewürztraminer,White,Acidic,Spanish,gazpacho
+Torrontés,White,Spicy,Argentinian,Thai curry
+Gewürztraminer,White,Red Meat,Thai,roast lamb
+Chenin Blanc,White,Acidic,Ethiopian,gazpacho
+Tempranillo,Red,Cheese,Chinese (Sichuan),cheese platter
+Gewürztraminer,White,Spicy,Greek,Sichuan noodles
+Nebbiolo,Red,Pork,Chinese (Sichuan),carbonara
+Sauternes,Dessert,Poultry,Argentinian,duck à l’orange
+White Zinfandel,Rosé,Red Meat,Thai,beef stew
+White Zinfandel,Rosé,Cheese,Mexican,cheese platter
+Pinot Noir,Red,Cheese,Middle Eastern,mac and cheese
+Gamay (Beaujolais),Red,Acidic,Argentinian,gazpacho
+Viognier,White,Cheese,Korean,cheese platter
+Grüner Veltliner,White,Red Meat,Thai,grilled ribeye
+Cava,Sparkling,Seafood,Moroccan,shrimp scampi
+Sangiovese,Red,Cheese,Thai,mac and cheese
+Cabernet Sauvignon,Red,Smoky BBQ,Moroccan,smoked sausage
+Merlot,Red,Red Meat,Moroccan,beef stew
+Chardonnay,White,Pork,French,bacon burger
+Chenin Blanc,White,Red Meat,Korean,bbq brisket
+Chardonnay,White,Acidic,Argentinian,citrus salad
+Gewürztraminer,White,Spicy,American BBQ,Indian vindaloo
+Gamay (Beaujolais),Red,Red Meat,Italian,grilled ribeye
+Barbera,Red,Acidic,Ethiopian,caprese salad
+Gamay (Beaujolais),Red,Cheese,Spanish,fondue
+Viognier,White,Cheese,Greek,mac and cheese
+Sauvignon Blanc,White,Dessert,Moroccan,cheesecake
+Chardonnay,White,Red Meat,Chinese (Sichuan),beef stew
+Torrontés,White,Spicy,Argentinian,Sichuan noodles
+Syrah/Shiraz,Red,Acidic,Argentinian,caprese salad
+Merlot,Red,Cheese,Indian,fondue
+Sangiovese,Red,Cheese,Middle Eastern,cheese platter
+Malbec,Red,Acidic,Argentinian,gazpacho
+Albariño,White,Acidic,American BBQ,gazpacho
+Sauternes,Dessert,Seafood,Korean,shrimp scampi
+Sauternes,Dessert,Seafood,Thai,oysters
+Albariño,White,Red Meat,Vietnamese,grilled ribeye
+Sauvignon Blanc,White,Dessert,Spanish,chocolate mousse
+Grüner Veltliner,White,Red Meat,Moroccan,roast lamb
+Champagne,Sparkling,Red Meat,Mexican,grilled ribeye
+Torrontés,White,Acidic,Argentinian,gazpacho
+Sauvignon Blanc,White,Creamy,American BBQ,alfredo pasta
+Sauvignon Blanc,White,Red Meat,Vietnamese,beef stew
+Nebbiolo,Red,Cheese,Korean,cheese platter
+Viognier,White,Red Meat,Ethiopian,grilled ribeye
+Grüner Veltliner,White,Seafood,Vietnamese,fish tacos
+Grüner Veltliner,White,Seafood,Italian,grilled salmon
+Cava,Sparkling,Salty Snack,Italian,mixed nuts
+Pinot Noir,Red,Vegetarian,Ethiopian,mushroom risotto
+Viognier,White,Red Meat,Mexican,beef stew
+Nebbiolo,Red,Seafood,Korean,fish tacos
+Sauternes,Dessert,Cheese,Greek,cheese platter
+Viognier,White,Red Meat,Japanese,roast lamb
+Barbera,Red,Acidic,Mexican,gazpacho
+Champagne,Sparkling,Seafood,Middle Eastern,oysters
+Chardonnay,White,Pork,Indian,carbonara
+Zinfandel,Red,Cheese,German,cheese platter
+Riesling (dry),White,Cheese,Vietnamese,fondue
+Sangiovese,Red,Acidic,Japanese,gazpacho
+Merlot,Red,Salty Snack,American BBQ,olives and cheese
+Sangiovese,Red,Red Meat,French,grilled ribeye
+Gewürztraminer,White,Red Meat,Indian,beef stew
+Sauvignon Blanc,White,Acidic,French,citrus salad
+Ice Wine,Dessert,Seafood,Middle Eastern,fish tacos
+Tempranillo,Red,Cheese,Indian,fondue
+Ice Wine,Dessert,Seafood,German,grilled salmon
+Provence Rosé,Rosé,Acidic,Moroccan,citrus salad
+Ice Wine,Dessert,Acidic,German,gazpacho
+Ice Wine,Dessert,Pork,Ethiopian,carbonara
+Tempranillo,Red,Cheese,Mexican,cheese platter
+Chardonnay,White,Acidic,Thai,citrus salad
+Riesling (dry),White,Acidic,Mexican,gazpacho
+Syrah/Shiraz,Red,Smoky BBQ,Mexican,smoked sausage
+Madeira,Fortified,Dessert,Italian,lemon tart
+Zinfandel,Red,Red Meat,Greek,beef stew
+Syrah/Shiraz,Red,Smoky BBQ,Indian,smoked sausage
+Sauvignon Blanc,White,Dessert,Ethiopian,chocolate mousse
+Provence Rosé,Rosé,Acidic,Moroccan,gazpacho
+Zinfandel,Red,Cheese,French,mac and cheese
+Cava,Sparkling,Acidic,Indian,gazpacho
+Riesling (dry),White,Spicy,American BBQ,Sichuan noodles
+Gewürztraminer,White,Acidic,Moroccan,caprese salad
+Ice Wine,Dessert,Seafood,Chinese (Sichuan),fish tacos
+Grenache,Red,Red Meat,Argentinian,bbq brisket
+Malbec,Red,Red Meat,Italian,grilled ribeye
+Viognier,White,Poultry,Thai,duck à l’orange
+Ice Wine,Dessert,Pork,Vietnamese,carbonara
+Zinfandel,Red,Acidic,Korean,citrus salad
+Ice Wine,Dessert,Red Meat,American BBQ,roast lamb
+White Zinfandel,Rosé,Red Meat,Italian,beef stew
+Port,Fortified,Cheese,Indian,cheese platter
+Barbera,Red,Acidic,Greek,caprese salad
+Pinot Noir,Red,Poultry,Middle Eastern,roast chicken with herbs
+Sauvignon Blanc,White,Creamy,Korean,cream of mushroom soup
+Malbec,Red,Cheese,Mexican,mac and cheese
+Provence Rosé,Rosé,Cheese,Chinese (Sichuan),cheese platter
+Zinfandel,Red,Red Meat,Argentinian,beef stew
+Ice Wine,Dessert,Red Meat,Moroccan,bbq brisket
+Sangiovese,Red,Vegetarian,Italian,stir-fried tofu
+Champagne,Sparkling,Red Meat,Vietnamese,beef stew
+Grüner Veltliner,White,Dessert,Argentinian,lemon tart
+Merlot,Red,Cheese,Spanish,fondue
+Albariño,White,Acidic,Argentinian,caprese salad
+Zinfandel,Red,Acidic,Vietnamese,citrus salad
+Albariño,White,Creamy,Thai,carbonara
+Sauternes,Dessert,Red Meat,Vietnamese,roast lamb
+Nebbiolo,Red,Red Meat,Ethiopian,grilled ribeye
+Grüner Veltliner,White,Creamy,French,carbonara
+Chardonnay,White,Poultry,Mexican,duck à l’orange
+Cava,Sparkling,Red Meat,Korean,grilled ribeye
+Ice Wine,Dessert,Dessert,Middle Eastern,chocolate mousse
+Sauternes,Dessert,Pork,Moroccan,bacon burger
+Malbec,Red,Acidic,Argentinian,citrus salad
+Zinfandel,Red,Red Meat,Middle Eastern,bbq brisket
+Pinot Noir,Red,Cheese,Vietnamese,fondue
+Sauternes,Dessert,Seafood,Korean,fish tacos
+Ice Wine,Dessert,Acidic,Greek,caprese salad
+Port,Fortified,Cheese,Moroccan,fondue
+Syrah/Shiraz,Red,Smoky BBQ,Japanese,smoked sausage
+Sauternes,Dessert,Cheese,Ethiopian,cheese platter
+Torrontés,White,Red Meat,Chinese (Sichuan),roast lamb
+Sangiovese,Red,Cheese,Italian,fondue
+Torrontés,White,Spicy,German,Thai curry
+Grenache,Red,Salty Snack,Indian,olives and cheese
+Provence Rosé,Rosé,Acidic,Mexican,citrus salad
+Grüner Veltliner,White,Cheese,Argentinian,mac and cheese
+Riesling (dry),White,Spicy,Spanish,Thai curry
+Gamay (Beaujolais),Red,Red Meat,Middle Eastern,roast lamb
+Ice Wine,Dessert,Seafood,Thai,grilled salmon
+Albariño,White,Acidic,Spanish,gazpacho
+Sauternes,Dessert,Seafood,Vietnamese,oysters
+Torrontés,White,Red Meat,German,beef stew
+Port,Fortified,Cheese,American BBQ,fondue
+Gamay (Beaujolais),Red,Acidic,Spanish,gazpacho
+Zinfandel,Red,Red Meat,Vietnamese,roast lamb
+Sauternes,Dessert,Salty Snack,Greek,mixed nuts
+White Zinfandel,Rosé,Red Meat,American BBQ,beef stew
+Merlot,Red,Red Meat,German,beef stew
+Nebbiolo,Red,Red Meat,Italian,grilled ribeye
+Provence Rosé,Rosé,Acidic,Chinese (Sichuan),gazpacho
+Cava,Sparkling,Seafood,Korean,fish tacos
+Grüner Veltliner,White,Vegetarian,German,stir-fried tofu
+Grenache,Red,Creamy,French,cream of mushroom soup
+Malbec,Red,Red Meat,Mexican,beef stew
+Albariño,White,Dessert,Korean,sorbet
+Merlot,Red,Salty Snack,Middle Eastern,charcuterie board
+Barbera,Red,Red Meat,Greek,grilled ribeye
+Ice Wine,Dessert,Salty Snack,Middle Eastern,charcuterie board
+Sauternes,Dessert,Vegetarian,Moroccan,stir-fried tofu
+White Zinfandel,Rosé,Cheese,Vietnamese,fondue
+Nebbiolo,Red,Spicy,Indian,Thai curry
+Grenache,Red,Red Meat,Chinese (Sichuan),roast lamb
+Chardonnay,White,Creamy,Mexican,cream of mushroom soup
+Nebbiolo,Red,Seafood,American BBQ,grilled salmon
+Merlot,Red,Salty Snack,Greek,mixed nuts
+Riesling (dry),White,Red Meat,Chinese (Sichuan),grilled ribeye
+Tempranillo,Red,Red Meat,Greek,roast lamb
+Champagne,Sparkling,Cheese,Argentinian,mac and cheese
+Riesling (dry),White,Spicy,American BBQ,Indian vindaloo
+Sangiovese,Red,Poultry,American BBQ,roast chicken with herbs
+Grüner Veltliner,White,Red Meat,Italian,roast lamb
+Champagne,Sparkling,Red Meat,Japanese,grilled ribeye
+Champagne,Sparkling,Seafood,Spanish,grilled salmon
+Madeira,Fortified,Dessert,German,cheesecake
+Chardonnay,White,Red Meat,Mexican,roast lamb
+Cava,Sparkling,Cheese,American BBQ,mac and cheese
+Cava,Sparkling,Acidic,Spanish,citrus salad
+Chenin Blanc,White,Cheese,French,fondue
+Albariño,White,Cheese,Thai,fondue
+Torrontés,White,Acidic,Japanese,citrus salad
+Port,Fortified,Red Meat,Italian,roast lamb
+Riesling (dry),White,Acidic,French,caprese salad
+Champagne,Sparkling,Red Meat,Spanish,beef stew
+Pinot Noir,Red,Red Meat,Greek,bbq brisket
+Albariño,White,Creamy,Moroccan,alfredo pasta
+Syrah/Shiraz,Red,Red Meat,Mexican,beef stew
+Chardonnay,White,Acidic,Italian,caprese salad
+Sangiovese,Red,Cheese,German,mac and cheese
+Provence Rosé,Rosé,Acidic,Argentinian,caprese salad
+Sangiovese,Red,Vegetarian,German,mushroom risotto
+Sauternes,Dessert,Dessert,Spanish,sorbet
+Grenache,Red,Creamy,Ethiopian,cream of mushroom soup
+Grüner Veltliner,White,Vegetarian,Middle Eastern,stir-fried tofu
+Pinot Noir,Red,Acidic,Mexican,citrus salad
+Gamay (Beaujolais),Red,Acidic,Italian,gazpacho
+Ice Wine,Dessert,Salty Snack,Thai,charcuterie board
+Chardonnay,White,Poultry,Chinese (Sichuan),duck à l’orange
+Grüner Veltliner,White,Red Meat,French,grilled ribeye
+Sauvignon Blanc,White,Dessert,Italian,lemon tart
+Grüner Veltliner,White,Red Meat,Vietnamese,bbq brisket
+Champagne,Sparkling,Cheese,Japanese,fondue
+Syrah/Shiraz,Red,Smoky BBQ,Ethiopian,grilled burger
+Sauvignon Blanc,White,Seafood,American BBQ,shrimp scampi
+Cabernet Sauvignon,Red,Smoky BBQ,Vietnamese,smoked sausage
+Grüner Veltliner,White,Seafood,Vietnamese,grilled salmon
+Tempranillo,Red,Red Meat,French,roast lamb
+Madeira,Fortified,Dessert,Italian,sorbet
+Riesling (dry),White,Acidic,Moroccan,citrus salad
+Malbec,Red,Acidic,Korean,gazpacho
+Albariño,White,Acidic,Indian,citrus salad
+Chenin Blanc,White,Cheese,Greek,cheese platter
+Champagne,Sparkling,Salty Snack,Vietnamese,mixed nuts
+Madeira,Fortified,Cheese,Italian,mac and cheese
+Grenache,Red,Creamy,Spanish,cream of mushroom soup
+Grüner Veltliner,White,Acidic,Vietnamese,gazpacho
+White Zinfandel,Rosé,Red Meat,Italian,grilled ribeye
+Cava,Sparkling,Salty Snack,French,mixed nuts
+Sangiovese,Red,Vegetarian,Mexican,stir-fried tofu
+Gamay (Beaujolais),Red,Acidic,Argentinian,citrus salad
+Sangiovese,Red,Red Meat,Indian,bbq brisket
+Malbec,Red,Smoky BBQ,Spanish,bbq ribs
+Cava,Sparkling,Salty Snack,Korean,olives and cheese
+Viognier,White,Creamy,Japanese,carbonara
+Sauternes,Dessert,Acidic,French,caprese salad
+Grüner Veltliner,White,Dessert,Chinese (Sichuan),sorbet
+Sangiovese,Red,Cheese,Greek,mac and cheese
+Barbera,Red,Cheese,Spanish,fondue
+Viognier,White,Red Meat,Indian,bbq brisket
+Torrontés,White,Red Meat,Indian,beef stew
+Madeira,Fortified,Red Meat,Argentinian,beef stew
+Cava,Sparkling,Seafood,American BBQ,grilled salmon
+Chardonnay,White,Red Meat,Italian,bbq brisket
+Chardonnay,White,Poultry,Italian,chicken curry
+Grüner Veltliner,White,Dessert,Spanish,chocolate mousse
+Ice Wine,Dessert,Cheese,Ethiopian,mac and cheese
+Riesling (dry),White,Red Meat,Ethiopian,bbq brisket
+Cabernet Sauvignon,Red,Cheese,Japanese,fondue
+Gewürztraminer,White,Acidic,Indian,caprese salad
+Chardonnay,White,Creamy,Vietnamese,cream of mushroom soup
+Grüner Veltliner,White,Creamy,Chinese (Sichuan),cream of mushroom soup
+Zinfandel,Red,Cheese,Spanish,mac and cheese
+Syrah/Shiraz,Red,Acidic,Argentinian,gazpacho
+Ice Wine,Dessert,Cheese,Chinese (Sichuan),fondue
+Pinot Noir,Red,Acidic,Vietnamese,citrus salad
+Gamay (Beaujolais),Red,Seafood,Middle Eastern,oysters
+Malbec,Red,Cheese,German,mac and cheese
+Champagne,Sparkling,Cheese,Greek,cheese platter
+Sauvignon Blanc,White,Seafood,French,oysters
+Sauternes,Dessert,Dessert,Moroccan,cheesecake
+Ice Wine,Dessert,Dessert,Korean,lemon tart
+Sangiovese,Red,Poultry,Spanish,roast chicken with herbs
+White Zinfandel,Rosé,Red Meat,Korean,beef stew
+Viognier,White,Pork,Vietnamese,bacon burger
+Ice Wine,Dessert,Seafood,Korean,grilled salmon
+Sauvignon Blanc,White,Dessert,German,sorbet
+Pinot Noir,Red,Red Meat,Ethiopian,bbq brisket
+Sangiovese,Red,Vegetarian,Moroccan,mushroom risotto
+Albariño,White,Creamy,Vietnamese,cream of mushroom soup
+Syrah/Shiraz,Red,Smoky BBQ,Chinese (Sichuan),smoked sausage
+Sangiovese,Red,Cheese,Thai,cheese platter
+Viognier,White,Cheese,Spanish,fondue
+Port,Fortified,Dessert,Argentinian,chocolate mousse
+Viognier,White,Cheese,Greek,cheese platter
+Merlot,Red,Red Meat,Mexican,roast lamb
+Cava,Sparkling,Seafood,Mexican,fish tacos
+Chenin Blanc,White,Red Meat,Vietnamese,roast lamb
+Sauternes,Dessert,Cheese,Argentinian,fondue
+Ice Wine,Dessert,Vegetarian,Argentinian,mushroom risotto
+Cava,Sparkling,Red Meat,Indian,grilled ribeye
+Sangiovese,Red,Vegetarian,Vietnamese,stir-fried tofu
+Nebbiolo,Red,Seafood,Japanese,grilled salmon
+Malbec,Red,Acidic,German,gazpacho
+Sauternes,Dessert,Pork,Mexican,carbonara
+Albariño,White,Acidic,Thai,caprese salad
+Sauvignon Blanc,White,Acidic,Spanish,gazpacho
+Pinot Noir,Red,Cheese,Thai,fondue
+Albariño,White,Vegetarian,Thai,mushroom risotto
+Syrah/Shiraz,Red,Acidic,American BBQ,citrus salad
+Gamay (Beaujolais),Red,Red Meat,Chinese (Sichuan),roast lamb
+Port,Fortified,Cheese,French,fondue
+Madeira,Fortified,Red Meat,Japanese,beef stew
+Zinfandel,Red,Cheese,Mexican,mac and cheese
+Madeira,Fortified,Dessert,French,lemon tart
+Gewürztraminer,White,Cheese,Korean,cheese platter
+Albariño,White,Cheese,Spanish,mac and cheese
+Champagne,Sparkling,Seafood,Indian,grilled salmon
+Pinot Noir,Red,Cheese,Moroccan,mac and cheese
+Ice Wine,Dessert,Cheese,Korean,cheese platter
+Malbec,Red,Smoky BBQ,Chinese (Sichuan),bbq ribs
+Barbera,Red,Red Meat,American BBQ,beef stew
+Syrah/Shiraz,Red,Smoky BBQ,Spanish,smoked sausage
+Tempranillo,Red,Red Meat,Mexican,grilled ribeye
+Sauvignon Blanc,White,Seafood,Indian,fish tacos
+Nebbiolo,Red,Spicy,Vietnamese,Thai curry
+Ice Wine,Dessert,Poultry,Thai,chicken curry
+Ice Wine,Dessert,Cheese,Thai,cheese platter
+Sauternes,Dessert,Seafood,Greek,shrimp scampi
+Madeira,Fortified,Dessert,Argentinian,lemon tart
+Grenache,Red,Red Meat,Italian,beef stew
+Grüner Veltliner,White,Vegetarian,Spanish,vegetable curry
+Cava,Sparkling,Acidic,French,citrus salad
+Syrah/Shiraz,Red,Red Meat,Moroccan,grilled ribeye
+Torrontés,White,Spicy,Indian,Sichuan noodles
+Barbera,Red,Red Meat,Japanese,grilled ribeye
+Grenache,Red,Red Meat,Indian,roast lamb
+Torrontés,White,Red Meat,Moroccan,roast lamb
+Chardonnay,White,Red Meat,Mexican,grilled ribeye
+Champagne,Sparkling,Acidic,Vietnamese,gazpacho
+Syrah/Shiraz,Red,Red Meat,Mexican,roast lamb
+Ice Wine,Dessert,Salty Snack,German,olives and cheese
+Grüner Veltliner,White,Dessert,Argentinian,cheesecake
+Provence Rosé,Rosé,Acidic,Mexican,caprese salad
+Sauternes,Dessert,Salty Snack,Indian,charcuterie board
+Sauvignon Blanc,White,Seafood,Middle Eastern,fish tacos
+Sauvignon Blanc,White,Red Meat,Middle Eastern,bbq brisket
+Sauvignon Blanc,White,Red Meat,Thai,grilled ribeye
+Sangiovese,Red,Acidic,Moroccan,caprese salad
+Chenin Blanc,White,Cheese,French,mac and cheese
+Viognier,White,Pork,Korean,pork tenderloin
+Madeira,Fortified,Acidic,Greek,gazpacho
+Viognier,White,Pork,Ethiopian,carbonara
+Pinot Noir,Red,Poultry,Chinese (Sichuan),chicken curry
+Gamay (Beaujolais),Red,Red Meat,French,roast lamb
+Pinot Noir,Red,Vegetarian,American BBQ,vegetable curry
+Port,Fortified,Red Meat,Indian,beef stew
+Gewürztraminer,White,Spicy,Italian,Sichuan noodles
+Nebbiolo,Red,Pork,Thai,bacon burger
+Ice Wine,Dessert,Dessert,Middle Eastern,lemon tart
+Malbec,Red,Red Meat,Chinese (Sichuan),roast lamb
+Ice Wine,Dessert,Seafood,Ethiopian,shrimp scampi
+Viognier,White,Cheese,Italian,mac and cheese
+Riesling (dry),White,Spicy,Greek,Indian vindaloo
+Chenin Blanc,White,Red Meat,Italian,grilled ribeye
+Sauvignon Blanc,White,Red Meat,Japanese,grilled ribeye
+Pinot Noir,Red,Red Meat,American BBQ,grilled ribeye
+Port,Fortified,Cheese,Indian,fondue
+Port,Fortified,Cheese,Argentinian,mac and cheese
+Grenache,Red,Cheese,Indian,mac and cheese
+Cabernet Sauvignon,Red,Cheese,Italian,mac and cheese
+Merlot,Red,Salty Snack,French,mixed nuts
+Grenache,Red,Cheese,Vietnamese,cheese platter
+Riesling (dry),White,Acidic,Japanese,gazpacho
+Pinot Noir,Red,Red Meat,Japanese,beef stew
+Chardonnay,White,Poultry,American BBQ,roast chicken with herbs
+Madeira,Fortified,Dessert,Middle Eastern,chocolate mousse
+Nebbiolo,Red,Red Meat,Japanese,beef stew
+Sauternes,Dessert,Cheese,Thai,cheese platter
+Sauternes,Dessert,Red Meat,Spanish,grilled ribeye
+Provence Rosé,Rosé,Acidic,Ethiopian,caprese salad
+Merlot,Red,Red Meat,Japanese,grilled ribeye
+Sauvignon Blanc,White,Vegetarian,Vietnamese,mushroom risotto
+Zinfandel,Red,Red Meat,Korean,grilled ribeye
+Sauvignon Blanc,White,Seafood,Ethiopian,shrimp scampi
+Provence Rosé,Rosé,Acidic,Thai,caprese salad
+Torrontés,White,Red Meat,Spanish,roast lamb
+Grüner Veltliner,White,Dessert,French,sorbet
+Provence Rosé,Rosé,Red Meat,Italian,grilled ribeye
+Ice Wine,Dessert,Red Meat,Mexican,bbq brisket
+Grüner Veltliner,White,Acidic,Indian,caprese salad
+Grüner Veltliner,White,Creamy,Japanese,alfredo pasta
+Gewürztraminer,White,Red Meat,American BBQ,grilled ribeye
+Chenin Blanc,White,Cheese,German,mac and cheese
+Grenache,Red,Red Meat,Korean,beef stew
+Tempranillo,Red,Acidic,Japanese,gazpacho
+White Zinfandel,Rosé,Acidic,Korean,citrus salad
+Champagne,Sparkling,Cheese,Argentinian,cheese platter
+Pinot Noir,Red,Vegetarian,Indian,vegetable curry
+Sauternes,Dessert,Red Meat,Vietnamese,bbq brisket
+Nebbiolo,Red,Seafood,Vietnamese,oysters
+Grenache,Red,Red Meat,Thai,beef stew
+Cava,Sparkling,Acidic,German,citrus salad
+Port,Fortified,Cheese,Vietnamese,cheese platter
+Port,Fortified,Dessert,Greek,cheesecake
+Sangiovese,Red,Red Meat,Greek,bbq brisket
+Grüner Veltliner,White,Cheese,Greek,mac and cheese
+Viognier,White,Creamy,Argentinian,cream of mushroom soup
+Merlot,Red,Salty Snack,Korean,olives and cheese
+Viognier,White,Red Meat,French,bbq brisket
+Torrontés,White,Spicy,Japanese,Indian vindaloo
+Sauvignon Blanc,White,Acidic,Ethiopian,gazpacho
+Sauvignon Blanc,White,Creamy,Japanese,cream of mushroom soup
+Viognier,White,Pork,Middle Eastern,pork tenderloin
+Albariño,White,Vegetarian,Argentinian,mushroom risotto
+Chardonnay,White,Poultry,Mexican,roast chicken with herbs
+Syrah/Shiraz,Red,Red Meat,German,bbq brisket
+Chardonnay,White,Red Meat,French,roast lamb
+Port,Fortified,Dessert,Italian,sorbet
+Sauternes,Dessert,Poultry,French,duck à l’orange
+Ice Wine,Dessert,Pork,Spanish,bacon burger
+White Zinfandel,Rosé,Red Meat,Moroccan,roast lamb
+Sangiovese,Red,Poultry,Vietnamese,roast chicken with herbs
+Merlot,Red,Salty Snack,Mexican,olives and cheese
+Merlot,Red,Red Meat,Italian,bbq brisket
+Gamay (Beaujolais),Red,Seafood,German,fish tacos
+Sauternes,Dessert,Salty Snack,American BBQ,olives and cheese
+Chenin Blanc,White,Cheese,Argentinian,cheese platter
+Ice Wine,Dessert,Pork,Greek,pork tenderloin
+Pinot Noir,Red,Cheese,French,mac and cheese
+Sauternes,Dessert,Seafood,Japanese,fish tacos
+Malbec,Red,Acidic,Thai,caprese salad
+White Zinfandel,Rosé,Red Meat,Mexican,grilled ribeye
+Syrah/Shiraz,Red,Smoky BBQ,German,grilled burger
+Chardonnay,White,Pork,Spanish,bacon burger
+Chardonnay,White,Acidic,Moroccan,gazpacho
+Port,Fortified,Red Meat,French,bbq brisket
+Champagne,Sparkling,Seafood,German,grilled salmon
+Zinfandel,Red,Acidic,German,caprese salad
+Gamay (Beaujolais),Red,Cheese,Italian,cheese platter
+Zinfandel,Red,Red Meat,Chinese (Sichuan),bbq brisket
+White Zinfandel,Rosé,Red Meat,Vietnamese,beef stew
+Chardonnay,White,Cheese,Ethiopian,fondue
+Merlot,Red,Pork,German,bacon burger
+Sangiovese,Red,Acidic,Moroccan,citrus salad
+Nebbiolo,Red,Seafood,Chinese (Sichuan),oysters
+Albariño,White,Dessert,Argentinian,chocolate mousse
+Madeira,Fortified,Red Meat,Mexican,beef stew
+Sauternes,Dessert,Salty Snack,Ethiopian,mixed nuts
+Sangiovese,Red,Acidic,Argentinian,citrus salad
+Ice Wine,Dessert,Acidic,Vietnamese,gazpacho
+Sauternes,Dessert,Red Meat,Moroccan,bbq brisket
+Sauvignon Blanc,White,Dessert,Moroccan,lemon tart
+Albariño,White,Cheese,Korean,cheese platter
+Cava,Sparkling,Seafood,Greek,grilled salmon
+Ice Wine,Dessert,Red Meat,Spanish,beef stew
+Barbera,Red,Cheese,Chinese (Sichuan),mac and cheese
+Merlot,Red,Acidic,French,gazpacho
+Tempranillo,Red,Cheese,Italian,fondue
+Cabernet Sauvignon,Red,Cheese,Spanish,mac and cheese
+Malbec,Red,Acidic,Ethiopian,caprese salad
+Grüner Veltliner,White,Cheese,Greek,fondue
+White Zinfandel,Rosé,Cheese,Argentinian,cheese platter
+Grenache,Red,Pork,Vietnamese,bacon burger
+Provence Rosé,Rosé,Cheese,German,cheese platter
+Ice Wine,Dessert,Smoky BBQ,Korean,grilled burger
+Pinot Noir,Red,Acidic,Korean,gazpacho
+Pinot Noir,Red,Acidic,German,gazpacho
+Ice Wine,Dessert,Dessert,Mexican,sorbet
+Merlot,Red,Creamy,Vietnamese,cream of mushroom soup
+Tempranillo,Red,Cheese,Ethiopian,mac and cheese
+Pinot Noir,Red,Cheese,French,cheese platter
+Chardonnay,White,Poultry,Argentinian,roast chicken with herbs
+Torrontés,White,Cheese,Chinese (Sichuan),fondue
+Albariño,White,Red Meat,Spanish,beef stew
+Ice Wine,Dessert,Smoky BBQ,Greek,smoked sausage
+Sangiovese,Red,Vegetarian,German,stir-fried tofu
+Cava,Sparkling,Salty Snack,Vietnamese,olives and cheese
+Sangiovese,Red,Red Meat,Indian,beef stew
+Sauvignon Blanc,White,Acidic,Indian,caprese salad
+Champagne,Sparkling,Acidic,Chinese (Sichuan),citrus salad
+Sauvignon Blanc,White,Seafood,French,grilled salmon
+Ice Wine,Dessert,Smoky BBQ,Mexican,bbq ribs
+Chardonnay,White,Acidic,Vietnamese,citrus salad
+Cava,Sparkling,Red Meat,Moroccan,beef stew
+Sangiovese,Red,Cheese,Korean,mac and cheese
+Madeira,Fortified,Dessert,Japanese,lemon tart
+Sangiovese,Red,Red Meat,Mexican,roast lamb
+Nebbiolo,Red,Red Meat,Ethiopian,beef stew
+Cava,Sparkling,Cheese,Korean,cheese platter
+Viognier,White,Acidic,Italian,caprese salad
+Albariño,White,Cheese,Thai,cheese platter
+Gamay (Beaujolais),Red,Red Meat,Chinese (Sichuan),grilled ribeye
+Chenin Blanc,White,Red Meat,Vietnamese,grilled ribeye
+Gamay (Beaujolais),Red,Seafood,Japanese,shrimp scampi
+Sauternes,Dessert,Red Meat,Spanish,roast lamb
+Zinfandel,Red,Red Meat,Middle Eastern,grilled ribeye
+Grüner Veltliner,White,Creamy,Vietnamese,carbonara
+Torrontés,White,Cheese,Italian,fondue
+Madeira,Fortified,Dessert,Indian,cheesecake
+Cabernet Sauvignon,Red,Acidic,American BBQ,gazpacho
+Sauternes,Dessert,Smoky BBQ,Indian,smoked sausage
+Gamay (Beaujolais),Red,Acidic,Chinese (Sichuan),gazpacho
+Grüner Veltliner,White,Red Meat,Mexican,beef stew
+Zinfandel,Red,Acidic,American BBQ,citrus salad
+Albariño,White,Creamy,German,alfredo pasta
+Grüner Veltliner,White,Dessert,German,sorbet
+Syrah/Shiraz,Red,Cheese,Mexican,cheese platter
+Madeira,Fortified,Acidic,American BBQ,caprese salad
+Chenin Blanc,White,Red Meat,Korean,grilled ribeye
+Nebbiolo,Red,Spicy,Thai,Indian vindaloo
+Sauternes,Dessert,Smoky BBQ,French,smoked sausage
+Cava,Sparkling,Salty Snack,Ethiopian,charcuterie board
+Sauternes,Dessert,Cheese,Mexican,cheese platter
+Grenache,Red,Acidic,Argentinian,citrus salad
+Zinfandel,Red,Cheese,Moroccan,cheese platter
+Albariño,White,Acidic,Indian,caprese salad
+Sauternes,Dessert,Pork,Ethiopian,pork tenderloin
+Nebbiolo,Red,Seafood,French,shrimp scampi
+Champagne,Sparkling,Cheese,French,fondue
+Champagne,Sparkling,Seafood,Korean,grilled salmon
+Grüner Veltliner,White,Dessert,German,lemon tart
+Pinot Noir,Red,Vegetarian,Middle Eastern,vegetable curry
+Sauvignon Blanc,White,Dessert,Spanish,lemon tart
+Malbec,Red,Smoky BBQ,American BBQ,grilled burger
+Pinot Noir,Red,Vegetarian,Moroccan,mushroom risotto
+Ice Wine,Dessert,Acidic,Mexican,gazpacho
+Grüner Veltliner,White,Cheese,Indian,fondue
+Chenin Blanc,White,Cheese,Japanese,fondue
+Provence Rosé,Rosé,Cheese,Moroccan,fondue
+Albariño,White,Creamy,Indian,cream of mushroom soup
+Sauvignon Blanc,White,Red Meat,Chinese (Sichuan),bbq brisket
+Tempranillo,Red,Red Meat,Vietnamese,roast lamb
+Nebbiolo,Red,Spicy,Mexican,Indian vindaloo
+Grenache,Red,Salty Snack,German,charcuterie board
+Chardonnay,White,Cheese,Indian,mac and cheese
+Nebbiolo,Red,Pork,Indian,carbonara
+Grenache,Red,Cheese,French,cheese platter
+Albariño,White,Red Meat,Japanese,grilled ribeye
+Malbec,Red,Smoky BBQ,Spanish,grilled burger
+Pinot Noir,Red,Vegetarian,French,mushroom risotto
+Zinfandel,Red,Acidic,Vietnamese,gazpacho
+Madeira,Fortified,Dessert,Ethiopian,cheesecake
+Champagne,Sparkling,Red Meat,Greek,beef stew
+Ice Wine,Dessert,Acidic,Moroccan,citrus salad
+Sauvignon Blanc,White,Vegetarian,Moroccan,vegetable curry
+Viognier,White,Poultry,Mexican,duck à l’orange
+Nebbiolo,Red,Acidic,Greek,gazpacho
+Malbec,Red,Acidic,Middle Eastern,gazpacho
+Albariño,White,Acidic,German,caprese salad
+Viognier,White,Pork,Spanish,pork tenderloin
+Gewürztraminer,White,Spicy,Vietnamese,Sichuan noodles
+Malbec,Red,Cheese,Spanish,fondue
+Grüner Veltliner,White,Seafood,Moroccan,grilled salmon
+Chardonnay,White,Pork,Moroccan,bacon burger
+Nebbiolo,Red,Spicy,American BBQ,Thai curry
+Grenache,Red,Red Meat,Middle Eastern,beef stew
+White Zinfandel,Rosé,Acidic,Thai,citrus salad
+Provence Rosé,Rosé,Red Meat,German,beef stew
+Albariño,White,Vegetarian,Argentinian,vegetable curry
+Ice Wine,Dessert,Pork,Indian,carbonara
+Torrontés,White,Spicy,Vietnamese,Sichuan noodles
+Sangiovese,Red,Red Meat,Middle Eastern,grilled ribeye
+Pinot Noir,Red,Cheese,Vietnamese,mac and cheese
+Pinot Noir,Red,Cheese,Spanish,mac and cheese
+Madeira,Fortified,Cheese,Thai,mac and cheese
+Pinot Noir,Red,Acidic,Argentinian,citrus salad
+Gamay (Beaujolais),Red,Seafood,Greek,oysters
+Ice Wine,Dessert,Poultry,American BBQ,chicken curry
+Cabernet Sauvignon,Red,Smoky BBQ,French,grilled burger
+Riesling (dry),White,Cheese,American BBQ,fondue
+Sauternes,Dessert,Seafood,Middle Eastern,grilled salmon
+Viognier,White,Red Meat,Chinese (Sichuan),roast lamb
+Gamay (Beaujolais),Red,Red Meat,Japanese,grilled ribeye
+Cava,Sparkling,Seafood,Indian,grilled salmon
+White Zinfandel,Rosé,Acidic,Moroccan,citrus salad
+Cava,Sparkling,Salty Snack,Spanish,mixed nuts
+Syrah/Shiraz,Red,Cheese,American BBQ,mac and cheese
+Ice Wine,Dessert,Pork,Moroccan,pork tenderloin
+Cava,Sparkling,Seafood,Ethiopian,grilled salmon
+Gewürztraminer,White,Acidic,Chinese (Sichuan),citrus salad
+Chardonnay,White,Cheese,Argentinian,cheese platter
+Sangiovese,Red,Poultry,Italian,roast chicken with herbs
+Sauvignon Blanc,White,Acidic,Mexican,caprese salad
+Merlot,Red,Red Meat,French,bbq brisket
+Provence Rosé,Rosé,Acidic,Spanish,citrus salad
+Chardonnay,White,Poultry,Thai,duck à l’orange
+Nebbiolo,Red,Pork,Indian,pork tenderloin
+Ice Wine,Dessert,Salty Snack,Vietnamese,charcuterie board
+Sangiovese,Red,Cheese,French,mac and cheese
+Madeira,Fortified,Red Meat,Thai,beef stew
+Syrah/Shiraz,Red,Cheese,Thai,mac and cheese
+Chardonnay,White,Poultry,Middle Eastern,chicken curry
+Sauvignon Blanc,White,Dessert,Spanish,cheesecake
+Champagne,Sparkling,Acidic,Chinese (Sichuan),gazpacho
+Grenache,Red,Salty Snack,Italian,charcuterie board
+Chardonnay,White,Cheese,American BBQ,fondue
+Pinot Noir,Red,Vegetarian,Italian,vegetable curry
+Cava,Sparkling,Red Meat,Vietnamese,bbq brisket
+White Zinfandel,Rosé,Red Meat,Chinese (Sichuan),roast lamb
+Riesling (dry),White,Cheese,Thai,mac and cheese
+Grüner Veltliner,White,Cheese,American BBQ,mac and cheese
+Champagne,Sparkling,Seafood,Moroccan,fish tacos
+Tempranillo,Red,Acidic,German,gazpacho
+Cabernet Sauvignon,Red,Smoky BBQ,Ethiopian,smoked sausage
+Malbec,Red,Cheese,Chinese (Sichuan),fondue
+Syrah/Shiraz,Red,Smoky BBQ,Spanish,bbq ribs
+Sauternes,Dessert,Seafood,Italian,fish tacos
+Chardonnay,White,Acidic,Chinese (Sichuan),citrus salad
+Albariño,White,Vegetarian,Greek,mushroom risotto
+Malbec,Red,Smoky BBQ,Mexican,smoked sausage
+Torrontés,White,Spicy,Vietnamese,Indian vindaloo
+Riesling (dry),White,Red Meat,French,grilled ribeye
+Ice Wine,Dessert,Salty Snack,German,mixed nuts
+Tempranillo,Red,Cheese,Spanish,mac and cheese
+Grüner Veltliner,White,Dessert,Korean,sorbet
+Cava,Sparkling,Seafood,German,shrimp scampi
+Cabernet Sauvignon,Red,Smoky BBQ,Argentinian,grilled burger
+Gewürztraminer,White,Acidic,Italian,citrus salad
+Provence Rosé,Rosé,Red Meat,Ethiopian,bbq brisket
+Grenache,Red,Pork,German,pork tenderloin
+Barbera,Red,Cheese,Korean,mac and cheese
+Malbec,Red,Red Meat,Mexican,bbq brisket
+Grüner Veltliner,White,Cheese,Indian,mac and cheese
+Viognier,White,Acidic,Middle Eastern,caprese salad
+Gamay (Beaujolais),Red,Cheese,Mexican,mac and cheese
+Albariño,White,Cheese,Argentinian,fondue
+Champagne,Sparkling,Acidic,American BBQ,caprese salad
+Sauternes,Dessert,Dessert,Argentinian,cheesecake
+Albariño,White,Dessert,Argentinian,sorbet
+Riesling (dry),White,Acidic,Vietnamese,gazpacho
+Cava,Sparkling,Red Meat,Greek,roast lamb
+Sauternes,Dessert,Salty Snack,Japanese,olives and cheese
+Grenache,Red,Creamy,Argentinian,cream of mushroom soup
+Nebbiolo,Red,Spicy,Argentinian,Thai curry
+Barbera,Red,Red Meat,Indian,grilled ribeye
+Barbera,Red,Acidic,Italian,caprese salad
+Champagne,Sparkling,Salty Snack,Moroccan,charcuterie board
+Pinot Noir,Red,Cheese,Moroccan,fondue
+Torrontés,White,Red Meat,Korean,beef stew
+Madeira,Fortified,Red Meat,Ethiopian,bbq brisket
+Sangiovese,Red,Red Meat,Chinese (Sichuan),beef stew
+Albariño,White,Seafood,French,shrimp scampi
+Ice Wine,Dessert,Vegetarian,Greek,stir-fried tofu
+Chenin Blanc,White,Cheese,Ethiopian,cheese platter
+Sauternes,Dessert,Seafood,Mexican,oysters
+Pinot Noir,Red,Red Meat,American BBQ,bbq brisket
+Sangiovese,Red,Vegetarian,Middle Eastern,stir-fried tofu
+Grüner Veltliner,White,Creamy,French,alfredo pasta
+Sauternes,Dessert,Cheese,French,mac and cheese
+Tempranillo,Red,Red Meat,Vietnamese,bbq brisket
+Sauvignon Blanc,White,Red Meat,Thai,roast lamb
+Madeira,Fortified,Acidic,Thai,citrus salad
+Champagne,Sparkling,Red Meat,Moroccan,bbq brisket
+Madeira,Fortified,Red Meat,Thai,grilled ribeye
+Merlot,Red,Red Meat,Thai,beef stew
+Pinot Noir,Red,Red Meat,German,beef stew
+Malbec,Red,Cheese,Thai,mac and cheese
+Pinot Noir,Red,Acidic,Chinese (Sichuan),citrus salad
+Grüner Veltliner,White,Dessert,Middle Eastern,cheesecake
+Albariño,White,Vegetarian,Chinese (Sichuan),stir-fried tofu
+Provence Rosé,Rosé,Red Meat,Middle Eastern,beef stew
+Torrontés,White,Red Meat,Japanese,grilled ribeye
+Port,Fortified,Dessert,Ethiopian,chocolate mousse
+Ice Wine,Dessert,Vegetarian,Middle Eastern,mushroom risotto
+Sauvignon Blanc,White,Seafood,Moroccan,shrimp scampi
+Barbera,Red,Red Meat,Moroccan,beef stew
+Sangiovese,Red,Vegetarian,Mexican,mushroom risotto
+Gamay (Beaujolais),Red,Red Meat,Korean,beef stew
+White Zinfandel,Rosé,Acidic,Greek,gazpacho
+Cabernet Sauvignon,Red,Cheese,Greek,mac and cheese
+Cava,Sparkling,Salty Snack,Thai,charcuterie board
+Merlot,Red,Creamy,Mexican,alfredo pasta
+Grüner Veltliner,White,Seafood,Middle Eastern,oysters
+Sauternes,Dessert,Vegetarian,Japanese,mushroom risotto
+Syrah/Shiraz,Red,Cheese,Mexican,mac and cheese
+Cabernet Sauvignon,Red,Cheese,Japanese,mac and cheese
+Sauternes,Dessert,Pork,German,carbonara
+Cabernet Sauvignon,Red,Cheese,Italian,fondue
+Ice Wine,Dessert,Smoky BBQ,Indian,bbq ribs
+Merlot,Red,Pork,Argentinian,carbonara
+Pinot Noir,Red,Red Meat,American BBQ,beef stew
+Sangiovese,Red,Acidic,Argentinian,caprese salad
+Chardonnay,White,Red Meat,Thai,bbq brisket
+Riesling (dry),White,Cheese,Mexican,cheese platter
+Nebbiolo,Red,Red Meat,French,roast lamb
+Champagne,Sparkling,Red Meat,Korean,grilled ribeye
+Albariño,White,Seafood,French,fish tacos
+Viognier,White,Red Meat,French,grilled ribeye
+Grüner Veltliner,White,Seafood,Chinese (Sichuan),oysters
+Viognier,White,Poultry,Japanese,chicken curry
+Malbec,Red,Smoky BBQ,Argentinian,bbq ribs
+Cava,Sparkling,Acidic,French,gazpacho
+Torrontés,White,Acidic,Mexican,gazpacho
+Torrontés,White,Red Meat,Spanish,bbq brisket
+Sauternes,Dessert,Red Meat,German,beef stew
+Tempranillo,Red,Cheese,French,fondue
+Zinfandel,Red,Smoky BBQ,French,grilled burger
+Grenache,Red,Red Meat,American BBQ,roast lamb
+Malbec,Red,Acidic,Mexican,caprese salad
+Torrontés,White,Cheese,Ethiopian,mac and cheese
+Merlot,Red,Salty Snack,Argentinian,charcuterie board
+Merlot,Red,Creamy,Middle Eastern,cream of mushroom soup
+Champagne,Sparkling,Red Meat,Argentinian,beef stew
+Riesling (dry),White,Cheese,Chinese (Sichuan),mac and cheese
+Gamay (Beaujolais),Red,Red Meat,Indian,grilled ribeye
+Provence Rosé,Rosé,Red Meat,Argentinian,beef stew
+Sangiovese,Red,Red Meat,Indian,roast lamb
+Sauvignon Blanc,White,Red Meat,Ethiopian,grilled ribeye
+Riesling (dry),White,Cheese,Chinese (Sichuan),fondue
+Grenache,Red,Acidic,Thai,citrus salad
+Ice Wine,Dessert,Pork,German,bacon burger
+Tempranillo,Red,Acidic,Vietnamese,citrus salad
+Grenache,Red,Pork,Korean,pork tenderloin
+Grüner Veltliner,White,Cheese,Spanish,fondue
+Albariño,White,Creamy,Chinese (Sichuan),carbonara
+Cava,Sparkling,Red Meat,American BBQ,grilled ribeye
+Gewürztraminer,White,Cheese,Chinese (Sichuan),fondue
+Merlot,Red,Red Meat,American BBQ,roast lamb
+Ice Wine,Dessert,Red Meat,Greek,roast lamb
+Sauvignon Blanc,White,Red Meat,Vietnamese,grilled ribeye
+Nebbiolo,Red,Seafood,Vietnamese,fish tacos
+Cabernet Sauvignon,Red,Smoky BBQ,American BBQ,smoked sausage
+Sauternes,Dessert,Smoky BBQ,Ethiopian,smoked sausage
+Ice Wine,Dessert,Dessert,Ethiopian,sorbet
+Barbera,Red,Cheese,Ethiopian,cheese platter
+Gamay (Beaujolais),Red,Cheese,French,mac and cheese
+Ice Wine,Dessert,Dessert,Argentinian,cheesecake
+Syrah/Shiraz,Red,Red Meat,Vietnamese,beef stew
+Sangiovese,Red,Red Meat,American BBQ,bbq brisket
+Nebbiolo,Red,Acidic,Mexican,citrus salad
+Grüner Veltliner,White,Red Meat,Ethiopian,roast lamb
+Barbera,Red,Red Meat,Japanese,roast lamb
+Grenache,Red,Salty Snack,Vietnamese,olives and cheese
+Syrah/Shiraz,Red,Cheese,Indian,cheese platter
+Sauvignon Blanc,White,Seafood,Argentinian,oysters
+Albariño,White,Dessert,Moroccan,chocolate mousse
+Grüner Veltliner,White,Acidic,Italian,citrus salad
+Tempranillo,Red,Red Meat,Middle Eastern,bbq brisket
+Chardonnay,White,Acidic,Korean,caprese salad
+Pinot Noir,Red,Cheese,Korean,cheese platter
+Sauvignon Blanc,White,Red Meat,Indian,beef stew
+Sangiovese,Red,Red Meat,Moroccan,beef stew
+Sangiovese,Red,Acidic,Moroccan,gazpacho
+Nebbiolo,Red,Spicy,Argentinian,Indian vindaloo
+Champagne,Sparkling,Seafood,Japanese,oysters
+Viognier,White,Poultry,Argentinian,roast chicken with herbs
+Barbera,Red,Red Meat,Japanese,bbq brisket
+Madeira,Fortified,Dessert,Moroccan,lemon tart
+Nebbiolo,Red,Seafood,American BBQ,shrimp scampi
+Zinfandel,Red,Red Meat,Vietnamese,beef stew
+Cabernet Sauvignon,Red,Smoky BBQ,German,bbq ribs
+Albariño,White,Seafood,Korean,grilled salmon
+Nebbiolo,Red,Red Meat,Japanese,grilled ribeye
+Pinot Noir,Red,Red Meat,Mexican,beef stew
+White Zinfandel,Rosé,Cheese,Ethiopian,fondue
+Champagne,Sparkling,Salty Snack,Middle Eastern,mixed nuts
+Pinot Noir,Red,Cheese,Italian,mac and cheese
+Gewürztraminer,White,Red Meat,American BBQ,roast lamb
+Sauvignon Blanc,White,Creamy,Chinese (Sichuan),cream of mushroom soup
+Cabernet Sauvignon,Red,Smoky BBQ,Thai,grilled burger
+Gamay (Beaujolais),Red,Red Meat,Middle Eastern,grilled ribeye
+Chenin Blanc,White,Red Meat,German,bbq brisket
+Albariño,White,Creamy,Korean,alfredo pasta
+Port,Fortified,Dessert,Indian,sorbet
+Sauvignon Blanc,White,Seafood,Vietnamese,oysters
+Grenache,Red,Cheese,American BBQ,mac and cheese
+Port,Fortified,Cheese,Spanish,fondue
+Pinot Noir,Red,Vegetarian,Indian,stir-fried tofu
+Grenache,Red,Red Meat,Vietnamese,grilled ribeye
+Sauternes,Dessert,Dessert,Middle Eastern,sorbet
+Tempranillo,Red,Red Meat,German,bbq brisket
+Viognier,White,Creamy,Middle Eastern,carbonara
+Chardonnay,White,Red Meat,Moroccan,bbq brisket
+Zinfandel,Red,Acidic,Argentinian,gazpacho
+Grüner Veltliner,White,Red Meat,Thai,roast lamb
+Port,Fortified,Acidic,Mexican,citrus salad
+Sangiovese,Red,Poultry,Argentinian,chicken curry
+Syrah/Shiraz,Red,Cheese,French,cheese platter
+Sauvignon Blanc,White,Dessert,German,cheesecake
+Grenache,Red,Creamy,Indian,cream of mushroom soup
+Nebbiolo,Red,Creamy,Thai,cream of mushroom soup
+Syrah/Shiraz,Red,Cheese,Italian,fondue
+Barbera,Red,Cheese,Korean,cheese platter
+Albariño,White,Red Meat,Korean,bbq brisket
+Cabernet Sauvignon,Red,Red Meat,Japanese,roast lamb
+Gamay (Beaujolais),Red,Cheese,Italian,fondue
+Grüner Veltliner,White,Dessert,Vietnamese,sorbet
+Merlot,Red,Cheese,Indian,cheese platter
+Sauvignon Blanc,White,Vegetarian,Indian,stir-fried tofu
+Chardonnay,White,Acidic,Ethiopian,citrus salad
+White Zinfandel,Rosé,Acidic,American BBQ,caprese salad
+Grenache,Red,Creamy,Italian,cream of mushroom soup
+Sangiovese,Red,Poultry,Vietnamese,duck à l’orange
+Torrontés,White,Cheese,Japanese,mac and cheese
+Sauternes,Dessert,Red Meat,Italian,grilled ribeye
+Sauternes,Dessert,Poultry,Mexican,duck à l’orange
+Sangiovese,Red,Cheese,Moroccan,cheese platter
+Nebbiolo,Red,Pork,Middle Eastern,carbonara
+Grenache,Red,Red Meat,Vietnamese,bbq brisket
+Champagne,Sparkling,Acidic,Argentinian,citrus salad
+Zinfandel,Red,Acidic,Japanese,gazpacho
+Merlot,Red,Red Meat,American BBQ,bbq brisket
+Viognier,White,Red Meat,Spanish,beef stew
+Viognier,White,Pork,German,carbonara
+Grüner Veltliner,White,Acidic,Italian,gazpacho
+Ice Wine,Dessert,Cheese,Argentinian,cheese platter
+Ice Wine,Dessert,Red Meat,Ethiopian,beef stew
+Torrontés,White,Red Meat,Argentinian,beef stew
+Zinfandel,Red,Cheese,French,fondue
+Sangiovese,Red,Red Meat,Vietnamese,grilled ribeye
+Tempranillo,Red,Red Meat,Japanese,beef stew
+Cava,Sparkling,Acidic,American BBQ,caprese salad
+Torrontés,White,Spicy,Greek,Indian vindaloo
+Gewürztraminer,White,Red Meat,Vietnamese,roast lamb
+Malbec,Red,Red Meat,Ethiopian,grilled ribeye
+Torrontés,White,Spicy,Korean,Indian vindaloo
+Zinfandel,Red,Cheese,Vietnamese,cheese platter
+Torrontés,White,Spicy,French,Thai curry
+Merlot,Red,Pork,Moroccan,pork tenderloin
+Syrah/Shiraz,Red,Smoky BBQ,Thai,smoked sausage
+Pinot Noir,Red,Vegetarian,Thai,stir-fried tofu
+Sauternes,Dessert,Poultry,German,duck à l’orange
+Madeira,Fortified,Cheese,Japanese,fondue
+Port,Fortified,Red Meat,Moroccan,bbq brisket
+Ice Wine,Dessert,Salty Snack,Middle Eastern,olives and cheese
+Madeira,Fortified,Acidic,Argentinian,gazpacho
+Sauternes,Dessert,Red Meat,Italian,bbq brisket
+Sauternes,Dessert,Seafood,Ethiopian,shrimp scampi
+Gewürztraminer,White,Spicy,Middle Eastern,Thai curry
+Riesling (dry),White,Cheese,Ethiopian,mac and cheese
+Barbera,Red,Cheese,Moroccan,cheese platter
+Tempranillo,Red,Acidic,Ethiopian,citrus salad
+Sauvignon Blanc,White,Creamy,Italian,alfredo pasta
+Cabernet Sauvignon,Red,Red Meat,Chinese (Sichuan),roast lamb
+Nebbiolo,Red,Red Meat,Spanish,grilled ribeye
+Sauternes,Dessert,Acidic,Japanese,caprese salad
+Sauternes,Dessert,Pork,Argentinian,carbonara
+Barbera,Red,Acidic,Moroccan,citrus salad
+Sauternes,Dessert,Vegetarian,Middle Eastern,mushroom risotto
+Merlot,Red,Cheese,Italian,cheese platter
+Gamay (Beaujolais),Red,Cheese,Moroccan,cheese platter
+Grüner Veltliner,White,Dessert,American BBQ,chocolate mousse
+Viognier,White,Creamy,French,carbonara
+Sauternes,Dessert,Cheese,Japanese,fondue
+Ice Wine,Dessert,Seafood,Greek,shrimp scampi
+Viognier,White,Pork,Spanish,carbonara
+Gewürztraminer,White,Red Meat,Vietnamese,beef stew
+Merlot,Red,Cheese,Thai,cheese platter
+White Zinfandel,Rosé,Red Meat,Japanese,bbq brisket
+Riesling (dry),White,Red Meat,Thai,roast lamb
+Grenache,Red,Salty Snack,Middle Eastern,charcuterie board
+Syrah/Shiraz,Red,Red Meat,Chinese (Sichuan),bbq brisket
+Gamay (Beaujolais),Red,Acidic,Moroccan,citrus salad
+Albariño,White,Seafood,Indian,oysters
+Sauternes,Dessert,Red Meat,German,roast lamb
+Grüner Veltliner,White,Cheese,Mexican,mac and cheese
+Merlot,Red,Creamy,American BBQ,cream of mushroom soup
+Chardonnay,White,Pork,Greek,bacon burger
+Sangiovese,Red,Red Meat,Moroccan,bbq brisket
+Chardonnay,White,Cheese,American BBQ,cheese platter
+Cava,Sparkling,Cheese,Chinese (Sichuan),fondue
+Syrah/Shiraz,Red,Smoky BBQ,Middle Eastern,smoked sausage
+Madeira,Fortified,Dessert,French,chocolate mousse
+Nebbiolo,Red,Red Meat,Middle Eastern,roast lamb
+Champagne,Sparkling,Red Meat,Argentinian,roast lamb
+Malbec,Red,Red Meat,Ethiopian,beef stew
+Nebbiolo,Red,Cheese,Greek,cheese platter
+Torrontés,White,Acidic,Thai,caprese salad
+Ice Wine,Dessert,Pork,Korean,carbonara
+Malbec,Red,Smoky BBQ,French,grilled burger
+Grenache,Red,Cheese,German,mac and cheese
+Tempranillo,Red,Red Meat,Vietnamese,beef stew
+Malbec,Red,Cheese,German,cheese platter
+Gewürztraminer,White,Red Meat,Middle Eastern,roast lamb
+Grüner Veltliner,White,Acidic,Middle Eastern,caprese salad
+Syrah/Shiraz,Red,Red Meat,Korean,bbq brisket
+Torrontés,White,Acidic,Moroccan,gazpacho
+Malbec,Red,Red Meat,Chinese (Sichuan),beef stew
+Tempranillo,Red,Acidic,Moroccan,caprese salad
+Ice Wine,Dessert,Smoky BBQ,Chinese (Sichuan),smoked sausage
+Ice Wine,Dessert,Vegetarian,Mexican,stir-fried tofu
+Nebbiolo,Red,Red Meat,Spanish,beef stew
+Viognier,White,Creamy,Middle Eastern,cream of mushroom soup
+Chardonnay,White,Red Meat,American BBQ,beef stew
+Champagne,Sparkling,Acidic,American BBQ,gazpacho
+Merlot,Red,Salty Snack,Argentinian,olives and cheese
+Viognier,White,Creamy,Greek,cream of mushroom soup
+Ice Wine,Dessert,Vegetarian,Spanish,stir-fried tofu
+Grenache,Red,Salty Snack,Japanese,olives and cheese
+Pinot Noir,Red,Vegetarian,Korean,vegetable curry
+Chenin Blanc,White,Acidic,German,citrus salad
+Sauternes,Dessert,Dessert,Chinese (Sichuan),chocolate mousse
+Cava,Sparkling,Acidic,Korean,caprese salad
+Zinfandel,Red,Cheese,Moroccan,mac and cheese
+Nebbiolo,Red,Creamy,Vietnamese,carbonara
+Merlot,Red,Red Meat,Vietnamese,bbq brisket
+Viognier,White,Poultry,Japanese,roast chicken with herbs
+Torrontés,White,Cheese,American BBQ,mac and cheese
+Chardonnay,White,Poultry,Ethiopian,duck à l’orange
+Cabernet Sauvignon,Red,Acidic,Italian,caprese salad
+Cava,Sparkling,Red Meat,German,roast lamb
+Sauternes,Dessert,Vegetarian,Vietnamese,mushroom risotto
+Zinfandel,Red,Smoky BBQ,Greek,smoked sausage
+Sauternes,Dessert,Red Meat,Japanese,grilled ribeye
+Provence Rosé,Rosé,Red Meat,French,roast lamb
+Nebbiolo,Red,Pork,Spanish,pork tenderloin
+Chardonnay,White,Cheese,Chinese (Sichuan),fondue
+Grenache,Red,Salty Snack,American BBQ,olives and cheese
+Syrah/Shiraz,Red,Smoky BBQ,Ethiopian,bbq ribs
+Port,Fortified,Dessert,Korean,sorbet
+Malbec,Red,Cheese,Indian,fondue
+Albariño,White,Dessert,Chinese (Sichuan),sorbet
+Grenache,Red,Pork,German,carbonara
+Torrontés,White,Cheese,American BBQ,cheese platter
+Barbera,Red,Red Meat,Ethiopian,roast lamb
+Sauternes,Dessert,Vegetarian,Vietnamese,vegetable curry
+Champagne,Sparkling,Red Meat,Ethiopian,bbq brisket
+Madeira,Fortified,Red Meat,Italian,beef stew
+Tempranillo,Red,Acidic,American BBQ,caprese salad
+Madeira,Fortified,Acidic,Moroccan,caprese salad
+Sauternes,Dessert,Pork,Spanish,carbonara
+Nebbiolo,Red,Red Meat,Argentinian,beef stew
+Merlot,Red,Pork,Mexican,bacon burger
+Cava,Sparkling,Seafood,Argentinian,grilled salmon
+White Zinfandel,Rosé,Acidic,Moroccan,caprese salad
+Ice Wine,Dessert,Smoky BBQ,Middle Eastern,grilled burger
+Port,Fortified,Red Meat,Chinese (Sichuan),roast lamb
+Madeira,Fortified,Dessert,Middle Eastern,lemon tart
+Cava,Sparkling,Cheese,Italian,cheese platter
+Ice Wine,Dessert,Pork,Mexican,bacon burger
+Barbera,Red,Acidic,Ethiopian,gazpacho
+Merlot,Red,Salty Snack,Thai,charcuterie board
+Port,Fortified,Cheese,Italian,mac and cheese
+Merlot,Red,Acidic,Japanese,gazpacho
+Pinot Noir,Red,Vegetarian,Italian,mushroom risotto
+Madeira,Fortified,Acidic,Ethiopian,citrus salad
+Provence Rosé,Rosé,Red Meat,Ethiopian,grilled ribeye
+Madeira,Fortified,Acidic,Spanish,gazpacho
+Malbec,Red,Cheese,Argentinian,cheese platter
+Gewürztraminer,White,Red Meat,Vietnamese,grilled ribeye
+Sauternes,Dessert,Red Meat,Moroccan,beef stew
+Nebbiolo,Red,Creamy,Japanese,alfredo pasta
+Sangiovese,Red,Poultry,French,duck à l’orange
+Barbera,Red,Red Meat,Argentinian,grilled ribeye
+Viognier,White,Cheese,Spanish,cheese platter
+Pinot Noir,Red,Vegetarian,Middle Eastern,stir-fried tofu
+Provence Rosé,Rosé,Acidic,Mexican,gazpacho
+Grüner Veltliner,White,Cheese,Mexican,cheese platter
+Grüner Veltliner,White,Cheese,German,fondue
+Viognier,White,Pork,American BBQ,carbonara
+Sauternes,Dessert,Pork,Greek,bacon burger
+Malbec,Red,Red Meat,Middle Eastern,bbq brisket
+Malbec,Red,Cheese,Moroccan,fondue
+Sauvignon Blanc,White,Dessert,Greek,cheesecake
+Nebbiolo,Red,Creamy,Moroccan,cream of mushroom soup
+Cava,Sparkling,Seafood,Vietnamese,grilled salmon
+Cava,Sparkling,Seafood,German,fish tacos
+Chardonnay,White,Red Meat,Moroccan,beef stew
+Chardonnay,White,Poultry,Middle Eastern,roast chicken with herbs
+Champagne,Sparkling,Seafood,Japanese,shrimp scampi
+Ice Wine,Dessert,Salty Snack,Korean,olives and cheese
+Gamay (Beaujolais),Red,Cheese,Ethiopian,cheese platter
+Torrontés,White,Cheese,Greek,cheese platter
+Cabernet Sauvignon,Red,Smoky BBQ,Spanish,smoked sausage
+Sauternes,Dessert,Acidic,Middle Eastern,gazpacho
+Ice Wine,Dessert,Pork,Middle Eastern,pork tenderloin
+Merlot,Red,Acidic,Spanish,citrus salad
+Sangiovese,Red,Poultry,Argentinian,roast chicken with herbs
+Chardonnay,White,Acidic,Italian,gazpacho
+Sauternes,Dessert,Cheese,Argentinian,mac and cheese
+Nebbiolo,Red,Seafood,Italian,grilled salmon
+Torrontés,White,Acidic,French,citrus salad
+Grenache,Red,Creamy,Argentinian,alfredo pasta
+Zinfandel,Red,Red Meat,American BBQ,bbq brisket
+Pinot Noir,Red,Acidic,Korean,citrus salad
+Pinot Noir,Red,Acidic,Ethiopian,caprese salad
+Grüner Veltliner,White,Red Meat,American BBQ,roast lamb
+Pinot Noir,Red,Red Meat,American BBQ,roast lamb
+Ice Wine,Dessert,Vegetarian,Italian,stir-fried tofu
+Chardonnay,White,Acidic,Vietnamese,caprese salad
+Sauternes,Dessert,Acidic,American BBQ,gazpacho
+Chardonnay,White,Pork,Mexican,carbonara
+Riesling (dry),White,Spicy,Indian,Indian vindaloo
+Albariño,White,Red Meat,Indian,roast lamb
+Sauvignon Blanc,White,Acidic,American BBQ,citrus salad
+Tempranillo,Red,Red Meat,Korean,bbq brisket
+Viognier,White,Red Meat,Indian,roast lamb
+Albariño,White,Cheese,Italian,fondue
+Ice Wine,Dessert,Red Meat,Indian,beef stew
+Malbec,Red,Red Meat,Mexican,grilled ribeye
+Cabernet Sauvignon,Red,Cheese,Argentinian,fondue
+Grenache,Red,Creamy,French,alfredo pasta
+Torrontés,White,Spicy,Mexican,Indian vindaloo
+White Zinfandel,Rosé,Acidic,Ethiopian,caprese salad
+Grüner Veltliner,White,Seafood,Korean,shrimp scampi
+Grüner Veltliner,White,Red Meat,Mexican,bbq brisket
+Champagne,Sparkling,Acidic,Spanish,caprese salad
+Nebbiolo,Red,Creamy,Korean,carbonara
+Port,Fortified,Dessert,Thai,sorbet
+Madeira,Fortified,Dessert,Thai,sorbet
+Port,Fortified,Cheese,Chinese (Sichuan),mac and cheese
+Sauvignon Blanc,White,Acidic,Italian,citrus salad
+Merlot,Red,Salty Snack,Moroccan,olives and cheese
+Champagne,Sparkling,Seafood,Ethiopian,fish tacos
+Grenache,Red,Red Meat,Italian,roast lamb
+Ice Wine,Dessert,Salty Snack,Vietnamese,mixed nuts
+Provence Rosé,Rosé,Acidic,Italian,citrus salad
+Provence Rosé,Rosé,Acidic,American BBQ,caprese salad
+Merlot,Red,Creamy,French,cream of mushroom soup
+Riesling (dry),White,Spicy,French,Thai curry
+Gamay (Beaujolais),Red,Red Meat,Ethiopian,roast lamb
+Grenache,Red,Creamy,Indian,alfredo pasta
+Nebbiolo,Red,Seafood,Middle Eastern,grilled salmon
+Syrah/Shiraz,Red,Smoky BBQ,Thai,bbq ribs
+Malbec,Red,Smoky BBQ,German,smoked sausage
+Barbera,Red,Cheese,Argentinian,cheese platter
+Torrontés,White,Acidic,Moroccan,caprese salad
+Chenin Blanc,White,Red Meat,Indian,roast lamb
+Cava,Sparkling,Seafood,Argentinian,oysters
+Sauternes,Dessert,Pork,French,bacon burger
+Gamay (Beaujolais),Red,Acidic,Spanish,citrus salad
+Ice Wine,Dessert,Red Meat,Greek,bbq brisket
+Malbec,Red,Cheese,Japanese,cheese platter
+Ice Wine,Dessert,Salty Snack,Chinese (Sichuan),charcuterie board
+Syrah/Shiraz,Red,Acidic,Ethiopian,citrus salad
+Viognier,White,Poultry,Greek,duck à l’orange
+Viognier,White,Cheese,Mexican,cheese platter
+Grenache,Red,Cheese,Mexican,mac and cheese
+Pinot Noir,Red,Red Meat,Greek,roast lamb
+Chenin Blanc,White,Cheese,Indian,fondue
+Cava,Sparkling,Salty Snack,Vietnamese,mixed nuts
+Port,Fortified,Dessert,Moroccan,cheesecake
+Viognier,White,Acidic,Vietnamese,citrus salad
+White Zinfandel,Rosé,Acidic,Vietnamese,caprese salad
+Gewürztraminer,White,Cheese,Greek,mac and cheese
+Albariño,White,Vegetarian,Japanese,vegetable curry
+Cabernet Sauvignon,Red,Smoky BBQ,Greek,smoked sausage
+Cabernet Sauvignon,Red,Smoky BBQ,Argentinian,smoked sausage
+Nebbiolo,Red,Pork,Ethiopian,pork tenderloin
+Nebbiolo,Red,Cheese,Italian,mac and cheese
+Grüner Veltliner,White,Vegetarian,American BBQ,mushroom risotto
+Grüner Veltliner,White,Creamy,American BBQ,alfredo pasta
+Riesling (dry),White,Cheese,Middle Eastern,cheese platter
+Ice Wine,Dessert,Cheese,Mexican,fondue
+Malbec,Red,Smoky BBQ,Japanese,bbq ribs
+Chardonnay,White,Acidic,Spanish,gazpacho
+Sangiovese,Red,Red Meat,Vietnamese,bbq brisket
+Sangiovese,Red,Vegetarian,Argentinian,vegetable curry
+Merlot,Red,Cheese,Moroccan,fondue
+Zinfandel,Red,Acidic,Chinese (Sichuan),citrus salad
+Tempranillo,Red,Acidic,Ethiopian,caprese salad
+Albariño,White,Acidic,Greek,caprese salad
+Grüner Veltliner,White,Dessert,Spanish,cheesecake
+Sauternes,Dessert,Dessert,German,chocolate mousse
+Albariño,White,Acidic,Spanish,citrus salad
+Barbera,Red,Cheese,Vietnamese,cheese platter
+Gewürztraminer,White,Cheese,American BBQ,fondue
+Grüner Veltliner,White,Vegetarian,Moroccan,mushroom risotto
+Madeira,Fortified,Dessert,Ethiopian,chocolate mousse
+Chenin Blanc,White,Cheese,Spanish,cheese platter
+Ice Wine,Dessert,Smoky BBQ,Vietnamese,grilled burger
+Malbec,Red,Red Meat,Italian,beef stew
+Grenache,Red,Cheese,Middle Eastern,mac and cheese
+Ice Wine,Dessert,Seafood,American BBQ,shrimp scampi
+Cabernet Sauvignon,Red,Cheese,French,mac and cheese
+Albariño,White,Cheese,Mexican,fondue
+Gewürztraminer,White,Red Meat,French,bbq brisket
+Cabernet Sauvignon,Red,Smoky BBQ,Argentinian,bbq ribs
+Torrontés,White,Cheese,Middle Eastern,fondue
+Albariño,White,Red Meat,Greek,roast lamb
+Sauternes,Dessert,Dessert,Indian,lemon tart
+Port,Fortified,Dessert,Chinese (Sichuan),sorbet
+Zinfandel,Red,Acidic,Indian,gazpacho
+Grüner Veltliner,White,Acidic,Moroccan,citrus salad
+Ice Wine,Dessert,Poultry,Argentinian,duck à l’orange
+Zinfandel,Red,Smoky BBQ,Italian,grilled burger
+Albariño,White,Cheese,Moroccan,mac and cheese
+Chardonnay,White,Pork,Argentinian,carbonara
+Tempranillo,Red,Acidic,German,caprese salad
+Pinot Noir,Red,Poultry,Spanish,roast chicken with herbs
+Sauternes,Dessert,Pork,Korean,bacon burger
+Sauternes,Dessert,Pork,Indian,pork tenderloin
+Grüner Veltliner,White,Vegetarian,French,mushroom risotto
+Sauternes,Dessert,Salty Snack,German,olives and cheese
+White Zinfandel,Rosé,Acidic,Argentinian,citrus salad
+Grenache,Red,Pork,Chinese (Sichuan),bacon burger
+Chardonnay,White,Pork,American BBQ,carbonara
+Malbec,Red,Smoky BBQ,Vietnamese,smoked sausage
+Grüner Veltliner,White,Cheese,Japanese,cheese platter
+Gamay (Beaujolais),Red,Seafood,Chinese (Sichuan),oysters
+Grenache,Red,Creamy,Moroccan,alfredo pasta
+Gamay (Beaujolais),Red,Acidic,Chinese (Sichuan),citrus salad
+Viognier,White,Creamy,Korean,alfredo pasta
+Madeira,Fortified,Dessert,Chinese (Sichuan),sorbet
+Sauternes,Dessert,Cheese,Korean,fondue
+Nebbiolo,Red,Seafood,Indian,fish tacos
+Gamay (Beaujolais),Red,Cheese,Moroccan,fondue
+Nebbiolo,Red,Spicy,Japanese,Indian vindaloo
+Albariño,White,Vegetarian,French,stir-fried tofu
+Viognier,White,Cheese,Italian,cheese platter
+Sauvignon Blanc,White,Creamy,Ethiopian,alfredo pasta
+Malbec,Red,Acidic,German,citrus salad
+Champagne,Sparkling,Red Meat,Greek,bbq brisket
+Malbec,Red,Cheese,Ethiopian,fondue
+Zinfandel,Red,Cheese,Japanese,mac and cheese
+Chardonnay,White,Pork,Chinese (Sichuan),pork tenderloin
+Ice Wine,Dessert,Poultry,Mexican,roast chicken with herbs
+Torrontés,White,Red Meat,Middle Eastern,roast lamb
+Provence Rosé,Rosé,Red Meat,Italian,beef stew
+Port,Fortified,Acidic,Greek,caprese salad
+Ice Wine,Dessert,Dessert,Argentinian,chocolate mousse
+Chenin Blanc,White,Acidic,American BBQ,citrus salad
+Malbec,Red,Cheese,Mexican,cheese platter
+Grüner Veltliner,White,Vegetarian,French,stir-fried tofu
+Gamay (Beaujolais),Red,Seafood,Chinese (Sichuan),shrimp scampi
+Grüner Veltliner,White,Dessert,Ethiopian,chocolate mousse
+Albariño,White,Red Meat,Italian,roast lamb
+Nebbiolo,Red,Cheese,Argentinian,mac and cheese
+Viognier,White,Red Meat,Spanish,bbq brisket
+Sauvignon Blanc,White,Creamy,Italian,cream of mushroom soup
+White Zinfandel,Rosé,Cheese,Middle Eastern,fondue
+Torrontés,White,Cheese,Vietnamese,cheese platter
+Cava,Sparkling,Cheese,Vietnamese,cheese platter
+Nebbiolo,Red,Acidic,Argentinian,citrus salad
+Merlot,Red,Pork,Korean,carbonara
+Syrah/Shiraz,Red,Acidic,Moroccan,gazpacho
+Grüner Veltliner,White,Vegetarian,Indian,mushroom risotto
+Zinfandel,Red,Smoky BBQ,Ethiopian,smoked sausage
+Port,Fortified,Red Meat,Ethiopian,grilled ribeye
+Ice Wine,Dessert,Smoky BBQ,Indian,smoked sausage
+Merlot,Red,Salty Snack,Thai,olives and cheese
+Pinot Noir,Red,Poultry,Thai,roast chicken with herbs
+Provence Rosé,Rosé,Red Meat,Italian,roast lamb
+Provence Rosé,Rosé,Red Meat,Vietnamese,beef stew
+Viognier,White,Poultry,Korean,roast chicken with herbs
+Nebbiolo,Red,Pork,Moroccan,carbonara
+Grüner Veltliner,White,Seafood,Mexican,shrimp scampi
+Sauternes,Dessert,Smoky BBQ,Thai,bbq ribs
+Ice Wine,Dessert,Poultry,Indian,duck à l’orange
+Gamay (Beaujolais),Red,Red Meat,Korean,bbq brisket
+Viognier,White,Red Meat,American BBQ,bbq brisket
+Zinfandel,Red,Smoky BBQ,Ethiopian,grilled burger
+Champagne,Sparkling,Cheese,Korean,mac and cheese
+Nebbiolo,Red,Acidic,Ethiopian,gazpacho
+Sauternes,Dessert,Red Meat,Chinese (Sichuan),roast lamb
+Malbec,Red,Red Meat,French,beef stew
+Merlot,Red,Pork,Moroccan,carbonara
+Albariño,White,Creamy,French,carbonara
+Ice Wine,Dessert,Poultry,German,duck à l’orange
+Riesling (dry),White,Red Meat,German,grilled ribeye
+Barbera,Red,Acidic,Japanese,citrus salad
+Albariño,White,Creamy,Moroccan,cream of mushroom soup
+Viognier,White,Pork,German,pork tenderloin
+Ice Wine,Dessert,Cheese,Argentinian,mac and cheese
+Chardonnay,White,Creamy,French,alfredo pasta
+Zinfandel,Red,Cheese,Ethiopian,cheese platter
+Chardonnay,White,Red Meat,Spanish,roast lamb
+Sauternes,Dessert,Vegetarian,French,stir-fried tofu
+Pinot Noir,Red,Poultry,Italian,chicken curry
+Ice Wine,Dessert,Smoky BBQ,Greek,bbq ribs
+Ice Wine,Dessert,Acidic,Italian,gazpacho
+Zinfandel,Red,Acidic,Mexican,gazpacho
+Chardonnay,White,Acidic,Indian,gazpacho
+Viognier,White,Acidic,Korean,gazpacho
+Riesling (dry),White,Cheese,Vietnamese,mac and cheese
+Cava,Sparkling,Seafood,Greek,shrimp scampi
+Sauvignon Blanc,White,Cheese,Japanese,cheese platter
+Grenache,Red,Red Meat,Spanish,beef stew
+Madeira,Fortified,Red Meat,Ethiopian,beef stew
+Chardonnay,White,Acidic,Vietnamese,gazpacho
+Nebbiolo,Red,Red Meat,Italian,bbq brisket
+Viognier,White,Red Meat,Vietnamese,grilled ribeye
+Grüner Veltliner,White,Red Meat,French,roast lamb
+Gewürztraminer,White,Red Meat,Spanish,grilled ribeye
+Barbera,Red,Red Meat,French,beef stew
+Provence Rosé,Rosé,Cheese,Korean,mac and cheese
+Nebbiolo,Red,Seafood,Korean,shrimp scampi
+Grüner Veltliner,White,Dessert,Spanish,sorbet
+Sauternes,Dessert,Dessert,Vietnamese,sorbet
+Sauternes,Dessert,Dessert,Chinese (Sichuan),cheesecake
+Sauvignon Blanc,White,Acidic,Vietnamese,caprese salad
+Syrah/Shiraz,Red,Red Meat,Vietnamese,grilled ribeye
+Nebbiolo,Red,Pork,Spanish,bacon burger
+White Zinfandel,Rosé,Red Meat,Moroccan,beef stew
+Barbera,Red,Cheese,French,mac and cheese
+Sauternes,Dessert,Cheese,Middle Eastern,cheese platter
+Sauternes,Dessert,Cheese,Moroccan,fondue
+Grüner Veltliner,White,Cheese,Korean,mac and cheese
+Gamay (Beaujolais),Red,Seafood,Moroccan,grilled salmon
+White Zinfandel,Rosé,Cheese,Korean,fondue
+Cava,Sparkling,Acidic,Vietnamese,citrus salad
+Merlot,Red,Cheese,Korean,cheese platter
+Sangiovese,Red,Red Meat,Spanish,roast lamb
+Chardonnay,White,Red Meat,Argentinian,bbq brisket
+Sauternes,Dessert,Vegetarian,Thai,vegetable curry
+Chardonnay,White,Acidic,Korean,citrus salad
+Viognier,White,Poultry,American BBQ,chicken curry
+Albariño,White,Cheese,Argentinian,mac and cheese
+Merlot,Red,Pork,Middle Eastern,carbonara
+Pinot Noir,Red,Red Meat,Mexican,grilled ribeye
+Sauvignon Blanc,White,Vegetarian,Middle Eastern,vegetable curry
+Pinot Noir,Red,Cheese,Indian,cheese platter
+Port,Fortified,Red Meat,Korean,beef stew
+Sauternes,Dessert,Cheese,Vietnamese,mac and cheese
+Champagne,Sparkling,Salty Snack,Korean,charcuterie board
+Grüner Veltliner,White,Seafood,Spanish,fish tacos
+Gamay (Beaujolais),Red,Seafood,Ethiopian,fish tacos
+Grüner Veltliner,White,Vegetarian,Middle Eastern,mushroom risotto
+Sauvignon Blanc,White,Cheese,Indian,mac and cheese
+Sauternes,Dessert,Dessert,Mexican,lemon tart
+Zinfandel,Red,Smoky BBQ,Korean,smoked sausage
+Cabernet Sauvignon,Red,Red Meat,Ethiopian,beef stew
+Chardonnay,White,Acidic,Mexican,caprese salad
+Provence Rosé,Rosé,Cheese,Vietnamese,mac and cheese
+Viognier,White,Creamy,German,alfredo pasta
+Nebbiolo,Red,Cheese,Chinese (Sichuan),mac and cheese
+Port,Fortified,Dessert,Ethiopian,cheesecake
+Merlot,Red,Acidic,French,caprese salad
+Tempranillo,Red,Acidic,Vietnamese,gazpacho
+Barbera,Red,Acidic,Italian,citrus salad
+Albariño,White,Acidic,Italian,citrus salad
+Viognier,White,Poultry,French,chicken curry
+Pinot Noir,Red,Red Meat,Chinese (Sichuan),beef stew
+Sauternes,Dessert,Poultry,Chinese (Sichuan),duck à l’orange
+Tempranillo,Red,Acidic,Middle Eastern,citrus salad
+Malbec,Red,Red Meat,Japanese,beef stew
+Sauternes,Dessert,Acidic,Vietnamese,gazpacho
+Chardonnay,White,Creamy,Greek,carbonara
+Cabernet Sauvignon,Red,Acidic,Moroccan,citrus salad
+Grenache,Red,Cheese,Chinese (Sichuan),cheese platter
+Sauvignon Blanc,White,Seafood,German,shrimp scampi
+Cabernet Sauvignon,Red,Cheese,Indian,mac and cheese
+Albariño,White,Cheese,German,mac and cheese
+Grüner Veltliner,White,Seafood,Argentinian,oysters
+Gamay (Beaujolais),Red,Red Meat,Moroccan,bbq brisket
+Sauvignon Blanc,White,Red Meat,Moroccan,beef stew
+Viognier,White,Poultry,German,roast chicken with herbs
+Syrah/Shiraz,Red,Red Meat,Italian,roast lamb
+Zinfandel,Red,Acidic,German,citrus salad
+Port,Fortified,Red Meat,Middle Eastern,roast lamb
+Syrah/Shiraz,Red,Acidic,French,gazpacho
+Sauvignon Blanc,White,Cheese,Argentinian,cheese platter
+Sauternes,Dessert,Dessert,Vietnamese,chocolate mousse
+Grenache,Red,Pork,Korean,carbonara
+Grüner Veltliner,White,Dessert,French,cheesecake
+Barbera,Red,Red Meat,Vietnamese,bbq brisket
+Gewürztraminer,White,Red Meat,Middle Eastern,beef stew
+Torrontés,White,Acidic,Japanese,caprese salad
+Merlot,Red,Acidic,Mexican,citrus salad
+Grüner Veltliner,White,Red Meat,Vietnamese,beef stew
+Pinot Noir,Red,Red Meat,Spanish,grilled ribeye
+Grüner Veltliner,White,Creamy,Italian,cream of mushroom soup
+Zinfandel,Red,Cheese,Mexican,cheese platter
