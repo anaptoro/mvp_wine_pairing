@@ -5,13 +5,20 @@ import pandas as pd
 
 app = Flask(__name__)
 
-
 # =========================
 # LOAD ARTIFACTS
 # =========================
 MODEL_PATH = "best_wine_pairing_model.pkl"
 FEATURES_PATH = "selected_features.pkl"
 OPTIONS_PATH = "feature_options.pkl"
+
+WINE_TYPES_BY_CATEGORY_PATH = "wine_types_by_category.pkl"
+WINE_CATEGORIES_BY_TYPE_PATH = "wine_categories_by_type.pkl"
+FOOD_ITEMS_BY_CATEGORY_PATH = "food_items_by_category.pkl"
+
+wine_types_by_category = joblib.load(WINE_TYPES_BY_CATEGORY_PATH)
+wine_categories_by_type = joblib.load(WINE_CATEGORIES_BY_TYPE_PATH)
+food_items_by_category = joblib.load(FOOD_ITEMS_BY_CATEGORY_PATH)
 
 model = joblib.load(MODEL_PATH)
 selected_features = joblib.load(FEATURES_PATH)
@@ -140,13 +147,16 @@ def home():
             suggestions = suggest_better_pairings(submitted_values, top_k=3)
 
     return render_template(
-        "index.html",
-        feature_options=feature_options,
-        selected_features=selected_features,
-        prediction=prediction,
-        suggestions=suggestions,
-        submitted_values=submitted_values,
-    )
+    "index.html",
+    feature_options=feature_options,
+    selected_features=selected_features,
+    prediction=prediction,
+    suggestions=suggestions,
+    submitted_values=submitted_values,
+    food_items_by_category=food_items_by_category,
+    wine_types_by_category=wine_types_by_category,
+    wine_categories_by_type=wine_categories_by_type,
+)
 
 
 if __name__ == "__main__":
