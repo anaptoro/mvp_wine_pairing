@@ -43,7 +43,6 @@ def suggest_better_pairings(submitted_values: dict, top_k: int = 3):
     fixed_values = {
         "food_item": submitted_values.get("food_item", ""),
         "food_category": submitted_values.get("food_category", ""),
-        "cuisine": submitted_values.get("cuisine", ""),
     }
 
     candidate_rows = []
@@ -55,7 +54,6 @@ def suggest_better_pairings(submitted_values: dict, top_k: int = 3):
                 "wine_category": wine_category,
                 "food_item": fixed_values["food_item"],
                 "food_category": fixed_values["food_category"],
-                "cuisine": fixed_values["cuisine"],
             }
             candidate_rows.append(row)
 
