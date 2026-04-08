@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import joblib
 import pandas as pd
+from pathlib import Path
 
 
 app = Flask(__name__)
@@ -8,13 +9,15 @@ app = Flask(__name__)
 # =========================
 # LOAD ARTIFACTS
 # =========================
-MODEL_PATH = "best_wine_pairing_model.pkl"
-FEATURES_PATH = "selected_features.pkl"
-OPTIONS_PATH = "feature_options.pkl"
+APP_DIR = Path(__file__).resolve().parent
 
-WINE_TYPES_BY_CATEGORY_PATH = "wine_types_by_category.pkl"
-WINE_CATEGORIES_BY_TYPE_PATH = "wine_categories_by_type.pkl"
-FOOD_ITEMS_BY_CATEGORY_PATH = "food_items_by_category.pkl"
+MODEL_PATH = APP_DIR / "best_wine_pairing_model.pkl"
+FEATURES_PATH = APP_DIR / "selected_features.pkl"
+OPTIONS_PATH = APP_DIR / "feature_options.pkl"
+
+WINE_TYPES_BY_CATEGORY_PATH = APP_DIR / "wine_types_by_category.pkl"
+WINE_CATEGORIES_BY_TYPE_PATH = APP_DIR / "wine_categories_by_type.pkl"
+FOOD_ITEMS_BY_CATEGORY_PATH = APP_DIR / "food_items_by_category.pkl"
 
 wine_types_by_category = joblib.load(WINE_TYPES_BY_CATEGORY_PATH)
 wine_categories_by_type = joblib.load(WINE_CATEGORIES_BY_TYPE_PATH)
