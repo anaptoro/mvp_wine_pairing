@@ -5,8 +5,8 @@ from sklearn.metrics import accuracy_score, f1_score
 
 
 MODEL_PATH = "best_wine_pairing_model.pkl"
-X_TEST_PATH = "X_test.csv"
-Y_TEST_PATH = "y_test.csv"
+X_TEST_PATH = "tests/X_test.csv"
+Y_TEST_PATH = "tests/y_test.csv"
 
 # Performance requirements you define
 MIN_ACCURACY = 0.85
