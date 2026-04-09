@@ -14,8 +14,8 @@ Using the add_rows notebook the user can also add some entry thats not there, an
 
 ## Problem
 
-Choosing a wine that pairs well with a meal can be difficult for non-experts.Also, there are plenty of apps for wine recommendation out there, but rarely they are customizable
-This project builds a classification model that predicts the quality of a wine-food combination based on categorical features such as wine type, food category,and food item. Also, the training dataset is customizable and the user can add rows to it, retrain the model and keep it as a personal wine pairing recommendation system.
+Choosing a wine that pairs well with a meal can be difficult for non-experts. Also, there are plenty of apps for wine recommendation out there, but rarely they are customizable.
+This project builds a classification model that predicts the quality of a wine-food combination based on categorical features such as wine type, food category, and food item. When the combination is bad, other recommendations are made when possible. Also, the training dataset is customizable and the user can add rows to it, retrain the model and keep it as a personal wine pairing recommendation system.
 
 
 ---
@@ -53,13 +53,13 @@ The notebook includes the following steps:
 - categorical encoding with `OneHotEncoder`
 - model training with Scikit-learn pipelines
 - hyperparameter tuning with `GridSearchCV`
-- model comparison
+- model comparison 
 - model evaluation
 - model export
 
 ### Models compared
 The following classical classification algorithms were trained and compared:
-- K-Nearest Neighbors (KNN)
+- K-Nearest Neighbors (KNN) 
 - Decision Tree
 - Naive Bayes
 - Support Vector Machine (SVM)
@@ -72,7 +72,8 @@ The main evaluation metrics used were:
 - Classification report
 - Confusion matrix
 
-The final model was selected based on test performance, with special attention to macro F1 because of class imbalance.
+The final model was selected based on test performance, with special attention to macro F1 because of class imbalance. In this context, SVM demonstrated to have the highest weighted f1-score (0.921), followed by knn(0.920), decision_tree(0.89),  and naive_bayes (0.77).
+
 
 ---
 
@@ -104,4 +105,4 @@ http://127.0.0.1:5000
 ### 4. Add rows to the training dataset
 In order to add rows to the dataset you can simply add those using the add_rows notebook.
 
-In sequence, you can retrain the model so it will include your new preferences into it.
+In sequence, you can retrain the model (using the wine pairing notebook) so it will include your new preferences into it.
