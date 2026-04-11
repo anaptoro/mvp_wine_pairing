@@ -105,4 +105,4 @@ http://127.0.0.1:5000
 ### 4. Add rows to the training dataset
 In order to add rows to the dataset you can simply add those using the add_rows notebook.
 
-In sequence, you can retrain the model (using the wine pairing notebook) so it will include your new preferences into it.
+In sequence, you can retrain the model (using the wine pairing notebook ((For colab use, open the wine_pairing_colab_notebook)) so it will include your new preferences into it.
